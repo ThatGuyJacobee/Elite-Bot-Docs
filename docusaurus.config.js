@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Elite Bot Documentation',
   tagline: '',
-  url: 'https://docs.elite-gaming.co.uk',
-  baseUrl: '/',
+  url: 'https://ThatGuyJacobee.github.io',
+  baseUrl: '/Elite-Bot-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Elite Gaming UK', // Usually your GitHub org/user name.
+  organizationName: 'ThatGuyJacobee', // Usually your GitHub org/user name.
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
   themeConfig: {
     navbar: {
