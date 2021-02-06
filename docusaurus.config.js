@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Elite Bot - Docs',
+      title: 'Elite Bot',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
