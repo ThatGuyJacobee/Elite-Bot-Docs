@@ -13,7 +13,7 @@ module.exports = {
       title: 'Elite Bot',
       logo: {
         alt: 'Elite Gaming UK Logo',
-        src: 'img/elitegaminglogo.svg',
+        src: 'img/elitegaming.svg',
       },
       items: [
         {
