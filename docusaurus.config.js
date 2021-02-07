@@ -37,11 +37,15 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Setting up Elite Bot',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Customisations',
+              to: 'docs/doc2/',
+            },
+			{
+              label: 'Toggling Auto-Features',
               to: 'docs/doc2/',
             },
           ],
@@ -50,16 +54,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/2XvwvgR',
+            },
+			{
+              label: 'Twitter',
+              href: 'https://twitter.com/EliteGamingUK_',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/elitegaming_uk/',
             },
           ],
         },

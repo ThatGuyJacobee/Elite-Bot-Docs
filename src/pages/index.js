@@ -18,22 +18,22 @@ const features = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Fully Customisable',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Elite Bot allows you to customise a range of commands including
+		custom prefixes, welcome message, server logging and much more!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Easy to setup',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Elite Bot is extremely simple to setup with very clear and in-depth
+		documentation to configure everything you want!
       </>
     ),
   },
