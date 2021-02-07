@@ -5,15 +5,15 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/elitegaming.ico',
   organizationName: 'ThatGuyJacobee', // Usually your GitHub org/user name.
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Elite Bot',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Elite Gaming UK Logo',
+        src: 'img/elitegaminglogo.svg',
       },
       items: [
         {
