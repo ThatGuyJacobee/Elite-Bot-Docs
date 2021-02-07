@@ -2,7 +2,7 @@ module.exports = {
   title: 'Elite Bot Documentation',
   tagline: '',
   url: 'https://ThatGuyJacobee.github.io',
-  baseUrl: '/Elite-Bot-Docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
