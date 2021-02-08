@@ -1,0 +1,56 @@
+---
+id: gettingstarted
+title: Welcome to Elite Bot Docs
+slug: /
+---
+
+Elite Bot is a highly customisable and feature packed Discord Bot with simple setup and in-depth documentation.
+
+This documentation provides you with all information about each command/module, including usage, examples and customisation options.
+
+For any additional support, head over to our [Discord server](https://discord.gg/2XvwvgR)!
+
+:::tip
+For quickest support, head over to the "EG | Elite Bot" category on our discord!
+:::
+
+## Navigating the Docs
+
+Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Bot.
+
+If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a github request for change (reviewed daily). Alternatively, you can head over to our Discord server and report an Docs issue there.
+
+## Reporting Elite Bot bugs
+
+We're sorry to hear that you encountered an issue. It's our top priority to assist anyone who's experiencing any abnormalities with Elite Bot.
+If you or anyone else in your community encounter any problems with Elite Bot on your Discord server, you may report it by:
+
+* Joining our [Discord server](https://discord.gg/2XvwvgR) and using the #support channel in the "EG | Elite Bot" category
+* Creating an issue on our [bug report website page](https://elite-gaming.co.uk)
+* Using the bugreport command built-in to Elite Bot which sends some logs our way alongside your message
+
+Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
+
+## Key Admonitions
+
+Across the Docs you'll see a range of different admonitions being used to improve user experience and to highlight certain infomation.
+
+:::note
+This is used to show any additional notes that may become useful.
+:::
+
+:::tip
+This is used to show tips for the user.
+:::
+
+:::important
+This is used to state important infomation across the docs.
+:::
+
+:::caution
+This is used warn you to be careful within a process.
+:::
+
+:::warning
+This is used to show crucial infomation and to warn about something. Will also be used to show known bugs and depriciated features.
+:::
