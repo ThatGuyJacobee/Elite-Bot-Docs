@@ -12,12 +12,12 @@ module.exports = {
     navbar: {
       title: 'Elite Bot',
       logo: {
-        alt: 'Elite Gaming UK Logo',
+        alt: 'Elite Gaming Logo',
         src: 'img/elitegaming.svg',
       },
       items: [
         {
-          to: 'docs/how-to-use-docs',
+          to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -92,13 +92,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ThatGuyJacobee/Elite-Bot-Docs/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ThatGuyJacobee/Elite-Bot-Docs/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

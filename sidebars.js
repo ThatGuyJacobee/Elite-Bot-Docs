@@ -13,11 +13,24 @@ module.exports = {
       type: 'category',
       label: 'Bot Feature Setup',
       items: [
+        'xpsystem',
         'loggingfeature',
         'welcomefeature',
         'joinroles',
         'fivemstatusfeature',
         'roleselectfeature',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Commands',
+      items: [
+        'moderation',
+        'fun',
+        'info',
+        'music',
+        'manager',
+        'misc',
       ],
     },
     {

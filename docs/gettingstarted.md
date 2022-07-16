@@ -1,7 +1,7 @@
 ---
 id: gettingstarted
 title: Welcome to Elite Bot Docs
-slug: /how-to-use-docs
+slug: /
 ---
 
 Elite Bot is a highly customisable and feature packed Discord Bot with simple setup and in-depth documentation.

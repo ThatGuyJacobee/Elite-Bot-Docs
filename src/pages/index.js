@@ -13,7 +13,8 @@ const features = [
     description: (
       <>
         Elite Bot includes tons of essential commands and features that are
-		easy to use and highly documented!
+		easy to use and documented in detail, including unique features exlusive
+    to Elite Bot!
       </>
     ),
   },
@@ -22,8 +23,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Elite Bot allows you to customise a range of commands including
-		custom prefixes, welcome message, server logging and much more!
+        Elite Bot allows you to customise the majority of features and commands
+      to your own desires and likings!
       </>
     ),
   },
@@ -59,7 +60,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Home`}
+      //title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
