@@ -31,6 +31,12 @@ An example of setting the XP system settings:
 
 ## Configuring role level rewards
 
+:::tip
+
+You can use the command "/xprewards" in order to check what the current level role rewards are!
+
+:::
+
 An additional feature, is to give roles to users once they cross a certain level threshold. This is very easily configured, using the "/xproleadd" command. The two arguments for this command are the role to give to the user and the level at which this should occur. Alternatively, you can use "/xproleremove" with a role argument to remove a role reward.
 
 An example of adding an XP Role reward:
@@ -39,7 +45,7 @@ An example of adding an XP Role reward:
 
 And... that's it! The XP System is now fully configured and requires no other configuration.
 
-:::tip
+:::note
 
 There are many more commands that can be used within the XP System including leaderboards and more! Check these out within the Commands category of this documentation.
 
