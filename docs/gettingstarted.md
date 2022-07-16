@@ -1,14 +1,14 @@
 ---
 id: gettingstarted
 title: Welcome to Elite Bot Docs
-slug: /
+slug: /how-to-use-docs
 ---
 
 Elite Bot is a highly customisable and feature packed Discord Bot with simple setup and in-depth documentation.
 
 This documentation provides you with all information about each command/module, including usage, examples and customisation options.
 
-For any additional support, head over to our [Discord server](https://discord.gg/2XvwvgR)!
+For any additional support, head over to our [Discord server](http://discord.eguk.me)!
 
 :::tip
 For quickest support, head over to the "EG | Elite Bot" category on our discord!
@@ -25,8 +25,7 @@ If you think that something is missing across any parts of the documentation, yo
 We're sorry to hear that you encountered an issue. It's our top priority to assist anyone who's experiencing any abnormalities with Elite Bot.
 If you or anyone else in your community encounter any problems with Elite Bot on your Discord server, you may report it by:
 
-* Joining our [Discord server](https://discord.gg/2XvwvgR) and using the #support channel in the "EG | Elite Bot" category
-* Creating an issue on our [bug report website page](https://elite-gaming.co.uk)
+* Joining our [Discord server](http://discord.eguk.me) and using the #support channel in the "EG | Elite Bot" category
 * Using the bugreport command built-in to Elite Bot which sends some logs our way alongside your message
 
 Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
