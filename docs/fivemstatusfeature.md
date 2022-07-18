@@ -40,6 +40,8 @@ An Example of setting the embed title and description:
 
 ![img](../static/img/fivemstatusembed-example.png)
 
+![img](../static/img/fivemstatusfeature-embed.png)
+
 And... that's it! The Five M Server Status is now fully configured and requires no other configuration. 
 
 :::note

@@ -19,12 +19,14 @@ module.exports = {
         'joinroles',
         'fivemstatusfeature',
         'roleselectfeature',
+        'verificationfeature',
       ],
     },
     {
       type: 'category',
       label: 'Commands',
       items: [
+        'loggingcommands',
         'moderation',
         'fun',
         'info',

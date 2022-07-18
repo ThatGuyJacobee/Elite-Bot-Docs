@@ -28,4 +28,6 @@ An example of setting the welcome embed:
 
 ![img](../static/img/welcomeembed-example.png)
 
+![img](../static/img/welcomefeature-embed.png)
+
 And... that's it! The Welcome Feature is now fully configured and requires no other configuration.

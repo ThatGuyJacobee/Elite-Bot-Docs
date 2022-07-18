@@ -20,4 +20,8 @@ An Example of configuring the logging channel:
 
 ![img](../static/img/logchannel-example.png)
 
+Examples of the logging embeds:
+
+![img](../static/img/loggingfeature-embed.png)
+
 And... that's it! The Logging feature will now be operational and all logs will be sent to the set channel, including connecting to voice channels, deleting/editing messages, user joins/leaves and many more!.
