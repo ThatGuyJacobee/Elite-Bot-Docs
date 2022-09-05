@@ -20,22 +20,22 @@ module.exports = {
         'fivemstatusfeature',
         'roleselectfeature',
         'verificationfeature',
+        'suggestfeature',
+        'musicfeature',
       ],
     },
     {
       type: 'category',
-      label: 'Commands',
+      label: 'Command Categories',
       items: [
-        'loggingcommands',
-        'moderation',
-        'fun',
-        'info',
-        'music',
-        'manager',
-        'misc',
+        'configurationcommands',
+        'moderationcommands',
+        'funcommands',
+        'musiccommands',
+        'utilitiescommands',
       ],
     },
-    {
+    /*{
       type: 'category',
       label: 'Docusaurus',
       items: [
@@ -44,7 +44,7 @@ module.exports = {
         'doc3',
         'mdx',
       ],
-    },
+    },*/
     {
       type: 'link',
       label: 'Join our Discord Server',
