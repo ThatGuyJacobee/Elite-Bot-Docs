@@ -30,6 +30,12 @@ If you or anyone else in your community encounter any problems with Elite Bot on
 
 Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
 
+## Improving these docs
+
+If you have any suggestions or would like to contribute to this documentation, you may do so by either accessing the [GitHub Page](https://github.com/ThatGuyJacobee/Elite-Bot-Docs) or pressing the "Edit this page" button under each section which will directly allow you to contribute and edit.
+
+Commit changes will be looked at and replied to at the latest available opportunity. I'm deeply greatful for any commits and improvements 😁
+
 ## Key Admonitions
 
 Across the Docs you'll see a range of different admonitions being used to improve user experience and to highlight certain infomation.

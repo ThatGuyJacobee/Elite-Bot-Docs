@@ -19,10 +19,18 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentation',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        //{to: 'blog', label: 'Blog', position: 'left'},
+		{
+		  href: 'https://discord.com/api/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands',
+          label: 'Invite Elite Bot',
+		},
+		{
+		  href: 'http://discord.eguk.me',
+          label: 'Support',
+		},
         {
           href: 'https://github.com/ThatGuyJacobee/Elite-Bot-Docs',
           label: 'GitHub',
@@ -37,16 +45,16 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Setting up Elite Bot',
+              label: 'Introduction',
               to: 'docs/',
             },
             {
-              label: 'Customisations',
-              to: 'docs/doc2/',
+              label: 'Bot Feature Setup',
+              to: 'docs/xp-system',
             },
 			{
-              label: 'Toggling Auto-Features',
-              to: 'docs/doc2/',
+              label: 'Configuration Commands',
+              to: 'docs/configuration-commands',
             },
           ],
         },
@@ -70,10 +78,10 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
+            /*{
               label: 'Blog',
               to: 'blog',
-            },
+            },*/
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
@@ -81,7 +89,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Elite Gaming UK & Elite Bot`,
+      copyright: `Copyright © ${new Date().getFullYear()} Elite Gaming & Elite Bot`,
     },
   },
   presets: [

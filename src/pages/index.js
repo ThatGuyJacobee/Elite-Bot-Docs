@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Feature-Packed',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/elite-text.svg',
     description: (
       <>
         Elite Bot includes tons of essential commands and features that are
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: 'Fully Customisable',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/elitegaming.svg',
     description: (
       <>
         Elite Bot allows you to customise the majority of features and commands
@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: 'Easy to setup',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/bot-text.svg',
     description: (
       <>
         Elite Bot is extremely simple to setup with very clear and in-depth
@@ -49,6 +49,7 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
+	  <p>‎ </p>
       <h3>{title}</h3>
       <p>{description}</p>
     </div>

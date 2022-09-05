@@ -8,7 +8,7 @@ Adding Elite Bot to your server is very simple!
 
 Use the link below, and follow the Discord OAuth2 prompt in order to add Elite Bot to a server. Please ensure that the requested permissions are given to Elite Bot, otherwise certain features or functions may not work as intended. The table below shows each permission that is needed and for what reason.
 
-[Add Elite Bot HERE!](https://discord.com/api/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands "Discord OAuth2")
+[Invite Elite Bot HERE!](https://discord.com/api/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands "Discord OAuth2")
 
 # Necessary Permissions
 
