@@ -11,6 +11,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
 | /configinfo    | /configinfo | Return information about your guild's configuration of Elite Bot! | N/A | N/A |
+| /createvctoggle    | /createvctoggle [true/false] | Toggle the the create voice chat feature for this guild. | N/A | N/A |
 | /djrole        | /djrole [@role] | Set your DJ role for the music feature! | Manage Roles | N/A |
 | /djtoggle    | /djtoggle [true/false] | Toggle DJ for the music feature! | Administrator | N/A |
 | /fivemstatusconfig    | /fivemstatusconfig [#channel] [serverip] | Set the Five M status channel and server IP for the guild. | Administrator | N/A |

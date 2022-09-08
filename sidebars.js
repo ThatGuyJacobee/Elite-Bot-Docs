@@ -23,6 +23,7 @@ module.exports = {
         'suggestfeature',
         'musicfeature',
 		'vcmembercountfeature',
+		'vccreatefeature',
       ],
     },
     {
