@@ -18,6 +18,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /giveawayreroll        | /giveawayreroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | N/A |
 | /giveawaystart        | /giveawaystart [duration] [prize] [winners] [#channel] | Start a new giveaway for your guild. | Manage Events | N/A |
 | /help        | /help | Get information about my commands! | N/A | N/A |
+| /quickpoll        | /quickpoll [choice1] [choice2] [#channel] | Create a 2 choice quick poll in a channel! | N/A | N/A |
+| /shortenurl        | /shortenurl [url] | UNDER DEVELOPMENT - Shorten a long URL. | N/A | N/A |
 | /suggest        | /suggest [title] [description] | Suggest something within this guild. | N/A | N/A |
 | /userinfo        | /userinfo [@user] | Return information about a user's Discord account! | N/A | N/A |
 | /xpcurrent        | /xpcurrent [@user] | Check the XP of any user in the guild. | N/A | N/A |

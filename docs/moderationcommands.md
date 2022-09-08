@@ -20,6 +20,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /purge        | /purge [messages] [optional: @user] | Purge messages within a channel (or a specific user's messages). | Moderate Members | N/A |
 | /rolegive        | /rolegive [@user] [@role] | Give a role to a user! | Manage Roles | N/A |
 | /roleremove        | /roleremove [@user] [@role] | Remove a role from a user! | Manage Roles | N/A |
+| /setnickname        | /setnickname [@user] [nickname] [Optional: reason] | Set a nickname for a user in this guild! | Manage Roles | N/A |
 | /timeout        | /timeout [@user] [duration] [reason] | Purge messages within a channel (or a specific user's messages). | Moderate Members | N/A |
 | /warn        | /warn [@user] [reason] | Warn a user in your guild! | Moderate Members | N/A |
 | /warncheck        | /warncheck [@user] | Check a user's current warnings within this guild! | Moderate Members | N/A |

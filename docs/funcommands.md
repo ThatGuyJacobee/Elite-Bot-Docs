@@ -15,6 +15,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /coinflip    | /coinflip [Heads/Tails] | Flip a coin! | N/A | N/A |
 | /diceroll    | /diceroll | Roll a 6-sided dice! | N/A | N/A |
 | /lmgt    | /lmgt [search] | Someone asking stupid questions? Let me google that! | N/A | N/A |
+| /meme    | /meme | Request a random meme from r/memes & r/dankmemes! | N/A | N/A |
 | /ping        | /ping | Pong! | N/A | N/A |
 | /psychopass    | /psychopass [@user] | Check the user's estimated crime coefficient! | N/A | N/A |
 | /randomgif        | /randomgif [searchtag] | Get a random returned gif matching your tag/key word! | N/A | N/A |

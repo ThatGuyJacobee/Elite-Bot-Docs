@@ -33,6 +33,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /verificationmenu    | /verificationmenu | Post the verificaiton menu for this guild. | Manage Guild | N/A |
 | /verificationsettings    | /verificationsettings [description] [roletogive] | Adjust the Verification feature settings for this guild. | Administrator | N/A |
 | /verificationtoggle    | /verificationtoggle [true/false] | Toggle the Verification feature for this guild. | Administrator | N/A |
+| /voicecounttoggle    | /voicecounttoggle [true/false] | Toggle the voice chat member count feature for this guild. | Administrator | N/A |
 | /welcomechannel    | /welcomechannel [#channel] | Set the welcome channel for the guild. | Administrator | N/A |
 | /welcomeembed    | /welcomeembed [title] [description] | Customise some features of the welcome embed for your guild. | Administrator | N/A |
 | /welcometoggle    | /welcometoggle [true/false] | Toggle the welcome feature for this guild. | Administrator | N/A |
