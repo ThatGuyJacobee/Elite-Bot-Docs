@@ -26,7 +26,7 @@ We're sorry to hear that you encountered an issue. It's our top priority to assi
 If you or anyone else in your community encounter any problems with Elite Bot on your Discord server, you may report it by:
 
 * Joining our [Discord server](http://discord.eguk.me) and using the #support channel in the "EG | Elite Bot" category
-* Using the bugreport command built-in to Elite Bot which sends some logs our way alongside your message
+* Using the /bugreport command built-in to Elite Bot which sends some logs our way alongside your message and supporting details
 
 Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
 

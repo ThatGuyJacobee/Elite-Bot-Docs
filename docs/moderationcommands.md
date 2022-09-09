@@ -22,6 +22,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /roleremove        | /roleremove [@user] [@role] | Remove a role from a user! | Manage Roles | N/A |
 | /setnickname        | /setnickname [@user] [nickname] [Optional: reason] | Set a nickname for a user in this guild! | Manage Roles | N/A |
 | /timeout        | /timeout [@user] [duration] [reason] | Purge messages within a channel (or a specific user's messages). | Moderate Members | N/A |
+| /voicedisconnect        | /voicedisconnect [@user] | Disconnect a user from any voice channel. | Moderate Members | N/A |
+| /voicemove        | /voicemove [@user] [#voicechannel] | Move a user from one voice channel to another. | Moderate Members | N/A |
 | /warn        | /warn [@user] [reason] | Warn a user in your guild! | Moderate Members | N/A |
 | /warncheck        | /warncheck [@user] | Check a user's current warnings within this guild! | Moderate Members | N/A |
 | /warnrevoke        | /warnrevoke [@user] [warnid] | Revoke a user's current warn in your guild! | Moderate Members | N/A |
