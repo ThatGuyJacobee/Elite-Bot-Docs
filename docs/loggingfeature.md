@@ -14,7 +14,7 @@ An Example of toggling the XP System:
 
 ## Configuring the logging channel
 
-Next you need to configure the Logging feature for your guild! You can do this using the "/logchannel" command which had a single argument requiring a channel where logs will be sent to.
+Next you need to configure the Logging feature for your guild! You can do this using the "/logging channel" command which had a single argument requiring a channel where logs will be sent to.
 
 An Example of configuring the logging channel:
 

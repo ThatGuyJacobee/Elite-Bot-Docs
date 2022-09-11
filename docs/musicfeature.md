@@ -12,7 +12,7 @@ An example of toggling the feature on:
 
 ![img](../static/img/djtoggle-example.png)
 
-Next, select a role which you wish to set as your @DJ role. This is the role that a user will be required to have in order to use any music command if DJ mode is activated. This is done using the "/djrole" command which looks for a role input.
+Next, select a role which you wish to set as your @DJ role. This is the role that a user will be required to have in order to use any music command if DJ mode is activated. This is done using the "/dj role" command which looks for a role input.
 
 ![img](../static/img/djrole-example.png)
 

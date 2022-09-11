@@ -14,7 +14,7 @@ An example of toggling the feature on:
 
 ## Configurating the feature
 
-Next, you have to configure two settings, the description of the embed that is posted and the role that the user should be given if the verification is successful using the "/verificationsettings" command.
+Next, you have to configure two settings, the description of the embed that is posted and the role that the user should be given if the verification is successful using the "/verification settings" command.
 
 :::tip
 
@@ -28,7 +28,7 @@ An example of configurating the two settings:
 
 ## Posting the embed
 
-Finally, use the command "/verificationmenu" in order to post the embed into the channel you wish to use for verification.
+Finally, use the command "/verification menu" in order to post the embed into the channel you wish to use for verification.
 
 An example of the embed:
 

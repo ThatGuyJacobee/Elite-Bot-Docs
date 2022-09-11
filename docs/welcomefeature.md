@@ -16,13 +16,13 @@ An Example of toggling the Welcome feature:
 
 Next you need to configure the Welcome Feature for your guild! 
 
-Firstly, use the "/welcomechannel" command which conists of one argument which should be the channel you wish the bot to send user join messages to!
+Firstly, use the "/welcome channel" command which conists of one argument which should be the channel you wish the bot to send user join messages to!
 
 An example of setting the welcome channel:
 
 ![img](../static/img/welcomechannel-example.png)
 
-Next, use the "/welcomeembed" command which consists of two arguments, one being the title that the welcome embed message should have, and the second being the description that the welcome embed message should be set to.
+Next, use the "/welcome embed" command which consists of two arguments, one being the title that the welcome embed message should have, and the second being the description that the welcome embed message should be set to.
 
 An example of setting the welcome embed:
 

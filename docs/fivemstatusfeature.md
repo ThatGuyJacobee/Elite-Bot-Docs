@@ -20,7 +20,7 @@ An Example of toggling the Five M Server Status:
 
 ## Configuring the functionality
 
-Most importantly, fisrt you need to grab your server's IP address or domain name. Next, use the command "/fivemstatusconfig" which consists of two arguments. One is to define the channel to which the server status embed should be sent to and updated in, whilst the other is the server IP.
+Most importantly, fisrt you need to grab your server's IP address or domain name. Next, use the command "/fivemstatus config" which consists of two arguments. One is to define the channel to which the server status embed should be sent to and updated in, whilst the other is the server IP.
 
 :::warning
 
@@ -34,7 +34,7 @@ An Example of configurating the Five M Server Status:
 
 ## Configuring the message embed
 
-Finally, you must customise the embed message to your liking! You can do this through the use of the command "/fivemstatusembed" which conists of two arguments, one for the title and one for the description.
+Finally, you must customise the embed message to your liking! You can do this through the use of the command "/fivemstatus embed" which conists of two arguments, one for the title and one for the description.
 
 An Example of setting the embed title and description:
 

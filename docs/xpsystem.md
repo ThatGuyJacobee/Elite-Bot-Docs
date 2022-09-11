@@ -14,7 +14,7 @@ An Example of toggling the XP System:
 
 ## Configuring the XP System
 
-Next you need to configure the XP system for your guild! You can do this using the "/xpsystemsettings" command alongside 6 arguments that you must fill in. Below is a table describing each.
+Next you need to configure the XP system for your guild! You can do this using the "/xpsystem settings" command alongside 6 arguments that you must fill in. Below is a table describing each.
 
 | Argument Name | Example | Explanation |
 | ------------- | :-----------: | ----- |
@@ -37,7 +37,7 @@ You can use the command "/xprewards" in order to check what the current level ro
 
 :::
 
-An additional feature, is to give roles to users once they cross a certain level threshold. This is very easily configured, using the "/xproleadd" command. The two arguments for this command are the role to give to the user and the level at which this should occur. Alternatively, you can use "/xproleremove" with a role argument to remove a role reward.
+An additional feature, is to give roles to users once they cross a certain level threshold. This is very easily configured, using the "/xpsystem roleadd" command. The two arguments for this command are the role to give to the user and the level at which this should occur. Alternatively, you can use "/xproleremove" with a role argument to remove a role reward.
 
 An example of adding an XP Role reward:
 

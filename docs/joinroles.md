@@ -8,7 +8,7 @@ slug: /join-roles
 
 Configuring the roles that users are added when they join your server is extremely easy!
 
-All you have to do is use the command "/joinroleadd" with the single argument being the actual role. Once you submit this, new users will now be given the picked role. You can use this command as much as you wish, with no limit to how many roles can be added when a user connects.
+All you have to do is use the command "/joinrole add" with the single argument being the actual role. Once you submit this, new users will now be given the picked role. You can use this command as much as you wish, with no limit to how many roles can be added when a user connects.
 
 :::important
 
@@ -20,7 +20,7 @@ An example of adding a role:
 
 ![img](../static/img/joinroles-example.png)
 
-Similarly, you can use the "/joinroleremove" command which has a single argument for the role that you want to remove from being automatically added.
+Similarly, you can use the "/joinrole remove" command which has a single argument for the role that you want to remove from being automatically added.
 
 And... that's it! The Join Roles are now fully configured and requires no other configuration.
 

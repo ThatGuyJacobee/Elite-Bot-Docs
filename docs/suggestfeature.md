@@ -14,7 +14,7 @@ An example of toggling the feature on:
 
 ## Configurating the feature
 
-Next, you have to configure the channel to send suggestions to using the "/suggestionchannel" command.
+Next, you have to configure the channel to send suggestions to using the "/suggestion channel" command.
 
 An example of configurating the channel:
 
