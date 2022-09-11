@@ -6,7 +6,7 @@ slug: /music-feature
 
 ## Configuring DJ mode
 
-Setting up DJ mode is very easy. Firstly you must toggle DJ only mode using the "/djtoggle" command and setting it to either true of false.
+Setting up DJ mode is very easy. Firstly you must toggle DJ only mode using the "/toggle djonly" command and setting it to either true of false.
 
 An example of toggling the feature on:
 

@@ -6,7 +6,7 @@ slug: /suggest-feature
 
 ## Toggling the feature
 
-Firstly, you can toggle the feature on using the "/suggestiontoggle" command within your guild returning true to enable (or false to disable).
+Firstly, you can toggle the feature on using the "/toggle suggestion" command within your guild returning true to enable (or false to disable).
 
 An example of toggling the feature on:
 

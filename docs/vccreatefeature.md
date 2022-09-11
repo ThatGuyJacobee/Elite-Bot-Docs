@@ -8,7 +8,7 @@ slug: /vc-create-feature
 
 (sorry for the mega weird feature name, had no clue what to name it :D)
 
-By default, the Join to Create VC Feature is toggled off. You can use the "/createvctoggle" command within your guild returning true to enable (or false to disable).
+By default, the Join to Create VC Feature is toggled off. You can use the "/toggle createvc" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the Join to Create VC feature:
 

@@ -6,7 +6,7 @@ slug: /verification-feature
 
 ## Toggling the feature
 
-Firstly, you can toggle the feature on using the "/verificationtoggle" command within your guild returning true to enable (or false to disable).
+Firstly, you can toggle the feature on using the "/toggle verification" command within your guild returning true to enable (or false to disable).
 
 An example of toggling the feature on:
 

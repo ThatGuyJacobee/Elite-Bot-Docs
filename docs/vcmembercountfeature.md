@@ -6,7 +6,7 @@ slug: /vc-member-count-feature
 
 ## Configuring the Member Count
 
-By default, the Member Count Feature is toggled off. You can use the "/voicecounttoggle" command within your guild returning true to enable (or false to disable).
+By default, the Member Count Feature is toggled off. You can use the "/toggle voicecount" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the Member Count feature:
 

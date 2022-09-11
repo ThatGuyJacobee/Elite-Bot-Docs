@@ -12,7 +12,7 @@ This feature is useful for Discord servers that run a Five M (GTA V Modification
 
 ## Enabling Five M Server Status
 
-By default, the Five M Server Status is toggled off. Firstly, use the "/fivemstatustoggle" command within your guild returning true to enable (or false to disable).
+By default, the Five M Server Status is toggled off. Firstly, use the "/toggle fivemstatus" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the Five M Server Status:
 

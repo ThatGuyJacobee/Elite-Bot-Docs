@@ -6,7 +6,7 @@ slug: /xp-system
 
 ## Enabling the XP System
 
-By default, the XP System is toggled off. Firstly, use the "/xpsystemtoggle" command within your guild returning true to enable (or false to disable).
+By default, the XP System is toggled off. Firstly, use the "/toggle xpsystem" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the XP System:
 

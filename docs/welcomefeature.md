@@ -6,7 +6,7 @@ slug: /welcome-feature
 
 ## Enabling the Welcome Feature
 
-By default, the Welcome feature is toggled off. Firstly, use the "/welcometoggle" command within your guild returning true to enable (or false to disable).
+By default, the Welcome feature is toggled off. Firstly, use the "/toggle welcome" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the Welcome feature:
 

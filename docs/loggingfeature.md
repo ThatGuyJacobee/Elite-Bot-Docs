@@ -6,7 +6,7 @@ slug: /logging-feature
 
 ## Enabling Logging Feature
 
-By default, the logging feature is toggled off. Firstly, use the "/logtoggle" command within your guild returning true to enable (or false to disable).
+By default, the logging feature is toggled off. Firstly, use the "/toggle logging" command within your guild returning true to enable (or false to disable).
 
 An Example of toggling the XP System:
 
