@@ -24,6 +24,7 @@ module.exports = {
         'musicfeature',
 		'vcmembercountfeature',
 		'vccreatefeature',
+		'antispamfeature',
       ],
     },
     {

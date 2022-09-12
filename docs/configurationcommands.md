@@ -10,6 +10,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
+| /antispam settings   | /antispam settings [messages] [time] [timegap] [timeout] | Alter the default settings of the Anti-Spam feature. | Manage Messages | N/A |
+| /antispam similarity   | /antispam similarity [choice] [percentage] | Toggle the Text Similarity section of the Anti-Spam feature. | Manage Messages | N/A |
 | /configinfo    | /configinfo | Return information about your guild's configuration of Elite Bot! | N/A | N/A |
 | /dj role        | /dj role [@role] | Set your DJ role for the music feature! | Manage Roles | N/A |
 | /fivemstatus config    | /fivemstatus config [#channel] [serverip] | Set the Five M status channel and server IP for the guild. | Administrator | N/A |
@@ -26,7 +28,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /roleselection spawn    | /roleselection menu [menuname] | Generate a role selection menu! | Manage Roles | N/A |
 | /roleselection remove    | /roleselection remove [menuname] [@role] | Remove a role into the role selection menu. | Manage Roles | N/A |
 | /suggestion channel    | /suggestion channel [#channel] | Set the welcome channel for the guild. | Administrator | N/A |
-| /toggle createvc    | /toggle createvc [true/false] | Toggle the the create voice chat feature for this guild. | N/A | N/A |
+| /toggle antispam    | /toggle antispam [true/false] | Toggle the Anti-Spam feature for this guild. | Administrator | N/A |
+| /toggle createvc    | /toggle createvc [true/false] | Toggle the the create voice chat feature for this guild. | Administrator | N/A |
 | /toggle djonly    | /toggle djonly [true/false] | Toggle DJ for the music feature! | Administrator | N/A |
 | /toggle fivemstatus    | /toggle fivemstatus [true/false] | Toggle the Five M Status feature for this guild. | Administrator | N/A |
 | /toggle logging    | /toggle logging [true/false] | Toggle the log feature for this guild. | Administrator | N/A |
