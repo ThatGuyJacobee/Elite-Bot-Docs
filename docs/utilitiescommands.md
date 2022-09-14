@@ -23,6 +23,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /shortenurl        | /shortenurl [url] | Shorten a long URL. Powered by teamsnaily.com | N/A | N/A |
 | /suggest        | /suggest [title] [description] | Suggest something within this guild. | N/A | N/A |
 | /userinfo        | /userinfo [@user] | Return information about a user's Discord account! | N/A | N/A |
+| /vote        | /vote | Vote for Elite Bot on top.gg! Thank you for your support :D | N/A | N/A |
 | /xpcurrent        | /xpcurrent [@user] | Check the XP of any user in the guild. | N/A | N/A |
 | /xpleaderboard        | /xpleaderboard | Check the XP leaderboard of this guild. | N/A | N/A |
 | /xprewards        | /xprewards | Display the role rewards for this guild. | N/A | N/A |

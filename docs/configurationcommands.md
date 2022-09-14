@@ -12,7 +12,18 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
 | /antispam settings   | /antispam settings [messages] [time] [timegap] [timeout] | Alter the default settings of the Anti-Spam feature. | Manage Messages | N/A |
 | /antispam similarity   | /antispam similarity [choice] [percentage] | Toggle the Text Similarity section of the Anti-Spam feature. | Manage Messages | N/A |
-| /configinfo    | /configinfo | Return information about your guild's configuration of Elite Bot! | N/A | N/A |
+| /configinfo xpsystem   | /configinfo xpsystem | Check the current configuration for the XP System. | Administrator | N/A |
+| /configinfo logging   | /configinfo logging | Check the current configuration for the Logging Feature. | Administrator | N/A |
+| /configinfo welcome   | /configinfo welcome | Check the current configuration for the Welcome Feature. | Administrator | N/A |
+| /configinfo joinroles   | /configinfo joinroles | Check the current configuration for the Join Roles Feature. | Administrator | N/A |
+| /configinfo fivemstatus   | /configinfo fivemstatus | Check the current configuration for the Five M Status Feature. | Administrator | N/A |
+| /configinfo roleselect   | /configinfo roleselect | Check the current configuration for the Role Select Feature. | Administrator | N/A |
+| /configinfo verification   | /configinfo verification | Check the current configuration for the Five M Status Feature. | Administrator | N/A |
+| /configinfo suggestion   | /configinfo suggestion | Check the current configuration for the Suggestion Feature. | Administrator | N/A |
+| /configinfo djfeature   | /configinfo djfeature | Check the current configuration for the DJ Music Feature. | Administrator | N/A |
+| /configinfo voicecount   | /configinfo voicecount | Check the current configuration for the Voice Count Feature. | Administrator | N/A |
+| /configinfo createvc   | /configinfo createvc | Check the current configuration for the Join to Create VC Feature. | Administrator | N/A |
+| /configinfo antispam   | /configinfo antispam | Check the current configuration for the Anti-Spam Feature. | Administrator | N/A |
 | /dj role        | /dj role [@role] | Set your DJ role for the music feature! | Manage Roles | N/A |
 | /fivemstatus config    | /fivemstatus config [#channel] [serverip] | Set the Five M status channel and server IP for the guild. | Administrator | N/A |
 | /fivemstatus embed    | /fivemstatus embed [title] [description] | Customise the description of the Five M status embed. | Administrator | N/A |

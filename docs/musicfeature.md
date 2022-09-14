@@ -1,7 +1,7 @@
 ---
 id: musicfeature
-title: Music Feature
-slug: /music-feature
+title: Music DJ Feature
+slug: /music-dj-feature
 ---
 
 ## Configuring DJ mode
