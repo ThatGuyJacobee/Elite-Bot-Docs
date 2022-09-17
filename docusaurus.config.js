@@ -28,6 +28,10 @@ module.exports = {
           label: 'Invite Elite Bot',
 		},
 		{
+		  href: 'https://top.gg/bot/528660579208921098',
+          label: 'Vote for Elite Bot',
+		},
+		{
 		  href: 'http://discord.eguk.me',
           label: 'Support',
 		},

@@ -13,6 +13,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /8ball    | /8ball [question] | Get an answer to any question! | N/A | N/A |
 | /cat        | /cat | See some cute cats! Meow 😺! | N/A | N/A |
 | /coinflip    | /coinflip [Heads/Tails] | Flip a coin! | N/A | N/A |
+| /destiny2 vendor    | /destiny2 vendor [name: XUR] | [Work in progress!] Get the currently sold items for any vendor. | N/A | N/A |
 | /diceroll    | /diceroll | Roll a 6-sided dice! | N/A | N/A |
 | /insult    | /insult | Return a random insult (SFW). | N/A | N/A |
 | /lmgt    | /lmgt [search] | Someone asking stupid questions? Let me google that! | N/A | N/A |
