@@ -55,4 +55,4 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /welcome embed    | /welcome embed [title] [description] | Customise some features of the welcome embed for your guild. | Administrator | N/A |
 | /xpsystem roleadd    | /xpsystem roleadd [level] [@role] | Add a role to give to users when reaching a level threshold. | Manage Roles | N/A |
 | /xpsystem roleremove    | /xpsystem roleremove [@role] | Remove a role to give to users when reaching a level threshold. | Manage Roles | N/A |
-| /xpsystem settings    | /xpsystem settings [xpmin] [xpmax] [xpmultiplier] [#levelupchannel] [intervalvc] [#afkvc] | Customise settings for the XP system feature for your guild. | Administrator | N/A |
+| /xpsystem settings    | /xpsystem settings [xptype] [xpmin] [xpmax] [xpmultiplier] [#levelupchannel] [intervalvc] [#afkvc] | Customise settings for the XP system feature for your guild. | Administrator | N/A |

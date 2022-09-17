@@ -18,6 +18,7 @@ Next you need to configure the XP system for your guild! You can do this using t
 
 | Argument Name | Example | Explanation |
 | ------------- | :-----------: | ----- |
+| xptype | Linear/Exponential | Choose whether your levelling system should have levels incremented in a linear fashion (each level requires same amount of XP to the next) or exponential (lvl1=100,lvl2=150,lvl3=375.... higher increments each level)! |
 | xpmin | 5 | The minimum threshold of XP that should be given per message and per interval in voice chat. |
 | xpmax | 25 | The maximum threshold of XP that should be given per message and per interval in voice chat. |
 | xpmultiplier | 50 | This is the multiplier that each level should follow using a logarithmic equation. The higher the number, the more XP will be needed per rank! For example, at multiplier 50, lvl 1 requires 50 XP, lvl 2 requires 175 XP, lvl 3 requires 350 XP. |
