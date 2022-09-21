@@ -4,6 +4,11 @@ title: Music Commands 🎵
 slug: /music-commands
 ---
 
+:::warning
+MAJOR CHANGE: The base Elite Bot no longer has a Music Feature! You must invite Elite Bot Music as a separate bot!
+[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands "Discord OAuth2")
+:::
+
 ## Table of Commands
 
 All commands are listed in alphabetical order! Each command comes with an example and usage description, as well as permission needed to run the command and timeout between each usage in seconds!

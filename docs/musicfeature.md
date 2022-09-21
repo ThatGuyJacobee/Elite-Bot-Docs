@@ -4,6 +4,11 @@ title: Music DJ Feature
 slug: /music-dj-feature
 ---
 
+:::warning
+MAJOR CHANGE: The base Elite Bot no longer has a Music Feature! You must invite Elite Bot Music as a separate bot!
+[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands "Discord OAuth2")
+:::
+
 ## Configuring DJ mode
 
 Setting up DJ mode is very easy. Firstly you must toggle DJ only mode using the "/toggle djonly" command and setting it to either true of false.
