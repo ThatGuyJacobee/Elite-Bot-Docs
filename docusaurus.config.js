@@ -82,13 +82,17 @@ module.exports = {
         {
           title: 'More',
           items: [
-            /*{
-              label: 'Blog',
-              to: 'blog',
-            },*/
+            {
+              label: 'Terms of Service',
+              to: 'docs/terms-of-service',
+            },
+			{
+              label: 'Privacy Policy',
+              to: 'docs/privacy-policy',
+            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ThatGuyJacobee/Elite-Bot-Docs',
             },
           ],
         },
