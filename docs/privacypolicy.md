@@ -15,6 +15,8 @@ Usage Data is automatically collected when you are using our Service. If you wis
 
 Usage Data may include information such as your server's Guild ID, your Discord User ID and ChannelID's. Whilst you use our service via your Discord Server via the Discord desktop, mobile web app we may collect identifiable information regarding you or your Discord server once you add Elite Bot to your server.
 
+If using the Five M Status Feature, you may decide to provide your domain/IP address in order to ping and receive player data from in-game.
+
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data").
 
 This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. The only usage for this currently is via Google Analytics to track website views.
