@@ -67,7 +67,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/2XvwvgR',
+              href: 'http://discord.eguk.me',
             },
 			{
               label: 'Twitter',
@@ -97,7 +97,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Elite Gaming & Elite Bot`,
+      copyright: `Copyright © ${new Date().getFullYear()} Elite Bot & Elite Gaming`,
     },
   },
   presets: [
