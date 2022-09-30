@@ -28,7 +28,7 @@ module.exports = {
           label: 'Invite Elite Bot',
 		},
 		{
-		  href: 'https://top.gg/bot/528660579208921098',
+		  href: 'https://top.gg/bot/723275350922100840',
           label: 'Vote for Elite Bot',
 		},
 		{
