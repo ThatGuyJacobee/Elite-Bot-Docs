@@ -24,7 +24,7 @@ module.exports = {
         },
         //{to: 'blog', label: 'Blog', position: 'left'},
 		{
-		  href: 'https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1239533562928&scope=bot%20applications.commands',
+		  href: 'https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1376969370742&scope=bot%20applications.commands',
           label: 'Invite Elite Bot',
 		},
 		{
