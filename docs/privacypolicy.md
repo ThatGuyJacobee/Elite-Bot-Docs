@@ -4,7 +4,7 @@ title: Privacy Policy
 slug: /privacy-policy
 ---
 
-Last Updated: 21/09/2022
+Last Updated: 03/10/2022
 
 Elite Bot ("us", "we" or "our") operates https://elite-bot.com (the "site") & Elite Bot Discord Bot (the "bot"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site and Bot.
 
@@ -13,7 +13,7 @@ Whilst you are using Our Service, we may ask for certain personally identifiable
 
 Usage Data is automatically collected when you are using our Service. If you wish to have any of your data deleted, please join our Discord Support Server and request so there.
 
-Usage Data may include information such as your server's Guild ID, your Discord User ID and ChannelID's. Whilst you use our service via your Discord Server via the Discord desktop, mobile web app we may collect identifiable information regarding you or your Discord server once you add Elite Bot to your server.
+Usage Data may include information such as your server's Guild ID, your Discord User ID and ChannelID's. Whilst you use our service via your Discord Server via the Discord desktop, mobile web app we may collect identifiable information regarding you or your Discord server once you add Elite Bot to your server. The guild owner may also use message contents and server member data for the logging feature purposes. This is never stored anywhere on the database or on our systems, and is strictly used for the guild's feature usage!
 
 If using the Five M Status Feature, you may decide to provide your domain/IP address in order to ping and receive player data from in-game.
 
