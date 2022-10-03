@@ -10,7 +10,6 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /admindm        | /admindm [@user] [message] | Send a DM through Elite Bot to a member of your guild! | Manage Messages | N/A |
 | /announce        | /announce [#channel] [message] [@ping] | Send an announcement embed to a channel within this guild. | Manage Guild | N/A |
 | /ban        | /ban [@user] [Delete none/24 hours/7 days] [reason] | Ban a user from your guild! | Ban Members | N/A |
 | /bantemp    | /tempban [@user] [duration] [Delete none/24 hours/7 days] [reason] | Ban a user temporarily from your guild! | Ban Members | N/A |
