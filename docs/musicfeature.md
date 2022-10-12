@@ -5,8 +5,8 @@ slug: /music-dj-feature
 ---
 
 :::warning
-MAJOR CHANGE: The base Elite Bot no longer has a Music Feature! You must invite Elite Bot Music as a separate bot!
-[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=1239533562928&scope=bot%20applications.commands "Discord OAuth2")
+Major Change: Music has been completely deprecated from the main Elite Bot! You must invite Elite Bot Music as a separate bot!
+[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
 :::
 
 ## Configuring DJ mode

@@ -36,6 +36,16 @@ module.exports = {
         'utilitiescommands',
       ],
     },
+	{
+      type: 'category',
+      label: 'Elite Bot Music',
+      items: [
+		'gettingstartedmusic',
+        'addingelitebotmusic',
+        'musicfeature',
+        'musiccommands',
+      ],
+    },
     /*{
       type: 'category',
       label: 'Docusaurus',
