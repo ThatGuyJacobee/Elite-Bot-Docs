@@ -20,7 +20,7 @@ module.exports = {
         'fivemstatusfeature',
         'roleselectfeature',
         'verificationfeature',
-        'suggestfeature',
+        'communityfeature',
 		'vcmembercountfeature',
 		'vccreatefeature',
 		'antispamfeature',

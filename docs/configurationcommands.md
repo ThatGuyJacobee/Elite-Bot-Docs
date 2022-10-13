@@ -19,7 +19,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /configinfo fivemstatus   | /configinfo fivemstatus | Check the current configuration for the Five M Status Feature. | Administrator | N/A |
 | /configinfo roleselect   | /configinfo roleselect | Check the current configuration for the Role Select Feature. | Administrator | N/A |
 | /configinfo verification   | /configinfo verification | Check the current configuration for the Five M Status Feature. | Administrator | N/A |
-| /configinfo suggestion   | /configinfo suggestion | Check the current configuration for the Suggestion Feature. | Administrator | N/A |
+| /configinfo community   | /configinfo community | Check the current configuration for the Community Feature. | Administrator | N/A |
 | /configinfo djfeature   | /configinfo djfeature | Check the current configuration for the DJ Music Feature. | Administrator | N/A |
 | /configinfo voicecount   | /configinfo voicecount | Check the current configuration for the Voice Count Feature. | Administrator | N/A |
 | /configinfo createvc   | /configinfo createvc | Check the current configuration for the Join to Create VC Feature. | Administrator | N/A |
@@ -38,13 +38,14 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /roleselection delete    | /roleselection delete [menuname] | Delete a currently existing role selection menu in this guild. | Administrator | N/A |
 | /roleselection spawn    | /roleselection menu [menuname] | Generate a role selection menu! | Manage Roles | N/A |
 | /roleselection remove    | /roleselection remove [menuname] [@role] | Remove a role into the role selection menu. | Manage Roles | N/A |
-| /suggestion channel    | /suggestion channel [#channel] | Set the welcome channel for the guild. | Administrator | N/A |
+| /community suggestionchannel    | /community suggestionchannel [#channel] | Set the suggestion channel for the guild. | Administrator | N/A |
+| /community bugchannel    | /community bugchannel [#channel] | Set the bug channel for the guild. | Administrator | N/A |
 | /toggle antispam    | /toggle antispam [true/false] | Toggle the Anti-Spam feature for this guild. | Administrator | N/A |
 | /toggle createvc    | /toggle createvc [true/false] | Toggle the the create voice chat feature for this guild. | Administrator | N/A |
 | /toggle djonly    | /toggle djonly [true/false] | Toggle DJ for the music feature! | Administrator | N/A |
 | /toggle fivemstatus    | /toggle fivemstatus [true/false] | Toggle the Five M Status feature for this guild. | Administrator | N/A |
 | /toggle logging    | /toggle logging [true/false] | Toggle the log feature for this guild. | Administrator | N/A |
-| /toggle suggestion    | /toggle suggestion [true/false] | Toggle the suggestion feature for this guild. | Administrator | N/A |
+| /toggle community    | /toggle community [true/false] | Toggle the community utility feature for this guild. | Administrator | N/A |
 | /toggle verification    | /toggle verification [true/false] | Toggle the Verification feature for this guild. | Administrator | N/A |
 | /toggle voicecount    | /toggle voicecount [true/false] | Toggle the voice chat member count feature for this guild. | Administrator | N/A |
 | /toggle welcome    | /toggle welcome [true/false] | Toggle the welcome feature for this guild. | Administrator | N/A |
