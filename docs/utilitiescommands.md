@@ -14,8 +14,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /avatar        | /avatar [@user] | What user's avatar should be returned? | N/A | N/A |
 | /botinfo        | /botinfo | Return information about Elite Bot! | N/A | N/A |
 | /bug        | /bug [title] [description] | Submit a bug within this guild. | N/A | N/A |
-| /bugreport        | /bugreport [title] [description] [reapeatability: once, few times, always] [Optional: imgurl] | Have you encountered a bug? Use this command to send a bug report directly to the developer. | N/A | N/A |
 | /customembed        | /customembed [title] [description] [#channel] Optional: [#hexcolour] [author] [authorimgurl] [imgurl] [footer] [footerimgurl] [@pingrole] | Post a custom embed to a channel of your choice! | Manage Messages | N/A |
+| /elitebot bugreport        | /elitebot bugreport [title] [description] [reapeatability: once, few times, always] [Optional: imgurl] | Have you encountered a bug? Use this command to send a bug report directly to the developer. | N/A | N/A |
 | /giveaway edit        | /giveaway edit [giveawayid] [changeprize/winneramount/ accountage/requiredrole/addtime/ subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | N/A |
 | /giveaway end        | /giveaway end [giveawayid] | End a giveaway now within your guild. | Manage Events | N/A |
 | /giveaway reroll        | /giveaway reroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | N/A |

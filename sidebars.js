@@ -11,7 +11,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Bot Feature Setup',
+      label: 'Bot Feature Setup & Config',
       items: [
         'xpsystem',
         'loggingfeature',
@@ -24,6 +24,15 @@ module.exports = {
 		'vcmembercountfeature',
 		'vccreatefeature',
 		'antispamfeature',
+      ],
+    },
+	{
+      type: 'category',
+      label: 'Other Features',
+      items: [
+        'buttonsfeature',
+		'giveawayfeature',
+		'xpuserfeature',
       ],
     },
     {
