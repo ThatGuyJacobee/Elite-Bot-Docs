@@ -26,6 +26,12 @@ An example of configurating the two settings:
 
 ![img](../static/img/verificationsettings-example.png)
 
+:::tip
+
+One of the recent updates has introduced the ability to use "/n" to create new lines! If you wish to create a new line within your description, you can now use "/n" to create a new line at that point!
+
+:::
+
 ## Posting the embed
 
 Finally, use the command "/verification menu" in order to post the embed into the channel you wish to use for verification.

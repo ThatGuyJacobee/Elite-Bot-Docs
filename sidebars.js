@@ -33,6 +33,7 @@ module.exports = {
         'buttonsfeature',
 		'giveawayfeature',
 		'xpuserfeature',
+		'customembedfeature',
       ],
     },
     {

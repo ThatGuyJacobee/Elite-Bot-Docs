@@ -30,4 +30,10 @@ An example of setting the welcome embed:
 
 ![img](../static/img/welcomefeature-embed.png)
 
+:::tip
+
+One of the recent updates has introduced the ability to use "/n" to create new lines! If you wish to create a new line within your description, you can now use "/n" to create a new line at that point!
+
+:::
+
 And... that's it! The Welcome Feature is now fully configured and requires no other configuration.

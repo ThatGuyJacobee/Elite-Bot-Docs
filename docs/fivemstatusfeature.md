@@ -6,7 +6,7 @@ slug: /fivem-status-feature
 
 :::important
 
-This feature is useful for Discord servers that run a Five M (GTA V Modification) community or server. If you don't know what Five M is, then you don't need this feature enabled.
+This feature is useful for Discord servers that run a Five M (GTA V Modification) community or server. If you don't know what Five M is, then you don't need this feature enabled. You can learn more about Five M at: https://fivem.net/
 
 :::
 
@@ -32,6 +32,12 @@ An Example of configurating the Five M Server Status:
 
 ![img](../static/img/fivemstatusconfig-example.png)
 
+:::tip
+
+If you accidentally delete the embed, the embed will automatically be reposted in that same channel!
+
+:::
+
 ## Configuring the message embed
 
 Finally, you must customise the embed message to your liking! You can do this through the use of the command "/fivemstatus embed" which conists of two arguments, one for the title and one for the description.
@@ -41,6 +47,12 @@ An Example of setting the embed title and description:
 ![img](../static/img/fivemstatusembed-example.png)
 
 ![img](../static/img/fivemstatusfeature-embed.png)
+
+:::tip
+
+One of the recent updates has introduced the ability to use "/n" to create new lines! If you wish to create a new line within your description, you can now use "/n" to create a new line at that point!
+
+:::
 
 And... that's it! The Five M Server Status is now fully configured and requires no other configuration. 
 
