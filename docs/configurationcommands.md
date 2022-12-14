@@ -30,12 +30,13 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /joinrole check    | /joinrole check | Check the roles that are given to users on join to this guild. | Manage Roles | 5 secs |
 | /joinrole remove    | /joinrole remove [@role] | Remove a role to give to users on join from this guild. | Manage Roles | 5 secs |
 | /logging channel   | /logging channel [#channel] | Set the logs channel for the guild. | Administrator | 10 secs |
-| /roleselection add    | /roleselection add [menuname] [@role] [description] [emoji] | Add a role into the role selection menu. | Manage Roles | 5 secs |
+| /roleselection addrole    | /roleselection addrole [menuname] [@role] [description] [emoji] | Add a role into the role selection menu. | Manage Roles | 5 secs |
 | /roleselection check    | /roleselection check | Check the current role selection menus in your guild! | Manage Roles | 5 secs |
-| /roleselection create    | /roleselection create [menuname] [menudescription] | Create a new role selection menu. | Administrator | 5 secs |
+| /roleselection create    | /roleselection create [menuname] [menutitle] [menudescription] | Create a new role selection menu. | Administrator | 5 secs |
 | /roleselection delete    | /roleselection delete [menuname] | Delete a currently existing role selection menu in this guild. | Administrator | 5 secs |
 | /roleselection spawn    | /roleselection menu [menuname] | Generate a role selection menu! | Manage Roles | 5 secs |
-| /roleselection remove    | /roleselection remove [menuname] [@role] | Remove a role into the role selection menu. | Manage Roles | 5 secs |
+| /roleselection removerole    | /roleselection removerole [menuname] [@role] | Remove a role into the role selection menu. | Manage Roles | 5 secs |
+| /roleselection edit    | /roleselection edit [menuname] Optional: [menutitle] [menudescription] [newname] | Edit the embed or name of a role selection menu. | Manage Roles | 5 secs |
 | /community suggestionchannel    | /community suggestionchannel [#channel] | Set the suggestion channel for the guild. | Administrator | 15 secs |
 | /community bugchannel    | /community bugchannel [#channel] | Set the bug channel for the guild. | Administrator | 15 secs |
 | /toggle antispam    | /toggle antispam [true/false] | Toggle the Anti-Spam feature for this guild. | Administrator | 30 secs |

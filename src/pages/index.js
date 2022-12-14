@@ -77,6 +77,14 @@ function Home() {
               to={useBaseUrl('docs/')}>
               Get Started
             </Link>
+			<Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1376969370742&scope=bot%20applications.commands')}>
+              Invite Elite Bot
+            </Link>
           </div>
         </div>
       </header>

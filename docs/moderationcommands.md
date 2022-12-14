@@ -18,10 +18,10 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /channelunlock        | /channelunlock [#channel] | Unlock a channel from everyone. | Manage Channels | 15 secs |
 | /createtemplate        | /createtemplate [name] [description] | Create a new template for your guild. | Manage Guild | 60 secs |
 | /kick        | /kick [@user] [reason] | Kick a user from your guild! | Kick Members | 10 secs |
-| /purge        | /purge [messages] [optional: @user] | Purge messages within a channel (or a specific user's messages). | Moderate Members | 30 secs |
+| /purge        | /purge [messages] Optional: [@user] | Purge messages within a channel (or a specific user's messages). | Moderate Members | 30 secs |
 | /rolegive        | /rolegive [@user] [@role] | Give a role to a user! | Manage Roles | 5 secs |
 | /roleremove        | /roleremove [@user] [@role] | Remove a role from a user! | Manage Roles | 5 secs |
-| /setnickname        | /setnickname [@user] [nickname] [Optional: reason] | Set a nickname for a user in this guild! | Manage Roles | 15 secs |
+| /setnickname        | /setnickname [@user] [nickname] Optional: [reason] | Set a nickname for a user in this guild! | Manage Roles | 15 secs |
 | /timeout        | /timeout [@user] [duration] [reason] | Purge messages within a channel (or a specific user's messages). | Moderate Members | 10 secs |
 | /voicedeafen        | /voicedeafen [@user] | Server deafen or undeafen a user within voice channels. | Deafen Members | 10 secs |
 | /voicedisconnect        | /voicedisconnect [@user] | Disconnect a user from any voice channel. | Move Members | 10 secs |

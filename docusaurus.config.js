@@ -9,6 +9,11 @@ module.exports = {
   organizationName: 'ThatGuyJacobee', // Usually your GitHub org/user name.
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
   themeConfig: {
+	colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: 'Elite Bot',
       logo: {
@@ -66,7 +71,7 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
+              label: 'Support Discord',
               href: 'http://discord.eguk.me',
             },
 			{
