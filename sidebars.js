@@ -34,6 +34,7 @@ module.exports = {
 		'giveawayfeature',
 		'xpuserfeature',
 		'customembedfeature',
+		'countinggamefeature',
       ],
     },
     {

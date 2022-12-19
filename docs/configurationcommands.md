@@ -24,7 +24,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /configinfo voicecount   | /configinfo voicecount | Check the current configuration for the Voice Count Feature. | Administrator | 5 secs |
 | /configinfo createvc   | /configinfo createvc | Check the current configuration for the Join to Create VC Feature. | Administrator | 5 secs |
 | /configinfo antispam   | /configinfo antispam | Check the current configuration for the Anti-Spam Feature. | Administrator | 5 secs |
-| /fivemstatus config    | /fivemstatus config [#channel] [serverip] | Set the Five M status channel and server IP for the guild. | Administrator | 10 secs |
+| /countgame config   | /countgame config [#channel] [gamemode] [resetwrong] [sameuser] | Change multiple configuration settings for the join roles feature using this command! | Manage Events | 30 secs |
+| /fivemstatus config    | /fivemstatus config [#channel] [cfxurl] | Set the Five M status channel and Cfx.re URL for the guild. | Administrator | 10 secs |
 | /fivemstatus embed    | /fivemstatus embed [title] [description] | Customise the description of the Five M status embed. | Administrator | 10 secs |
 | /joinrole add    | /joinrole add [@role] | Add a role to give to users on join to this guild. | Manage Roles | 5 secs |
 | /joinrole check    | /joinrole check | Check the roles that are given to users on join to this guild. | Manage Roles | 5 secs |
