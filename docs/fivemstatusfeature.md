@@ -10,6 +10,12 @@ This feature is useful for Discord servers that run a Five M (GTA V Modification
 
 :::
 
+:::note
+
+Recently reworked to v2: This update has changed the previous usage of the IP/Domain:Port to now simply using your server's Cfx.re URL, which improves user privacy and code efficiency. Moreover, a recent update also brings a direct connect button AND a button to view the entire playerlist!
+
+:::
+
 ## Enabling Five M Server Status
 
 By default, the Five M Server Status is toggled off. Firstly, use the "/toggle fivemstatus" command within your guild returning true to enable (or false to disable).
@@ -20,11 +26,11 @@ An Example of toggling the Five M Server Status:
 
 ## Configuring the functionality
 
-Most importantly, fisrt you need to grab your server's IP address or domain name. Next, use the command "/fivemstatus config" which consists of two arguments. One is to define the channel to which the server status embed should be sent to and updated in, whilst the other is the server IP.
+Most importantly, first you need to grab your server's Cfx.re URL, which can be found when your start your server in the console, but also through the key management portal at: https://keymaster.fivem.net/. Next, use the command "/fivemstatus config" which consists of two arguments. One is to define the channel to which the server status embed should be sent to and updated in, whilst the other is your server's Cfx.re URL which will be used to find the necessary public data via the endpoint.
 
 :::warning
 
-Ensure that you have the port after your IP, otherwise it will not work! For example: 0.0.0.0:30120 with the port being :30120 (Five M's default port), likewise for domains.
+Ensure that you enter the FULL server Cfx.re URL, including the beginning https! For example: https://cfx.re/join/njb8l4
 
 :::
 
@@ -58,6 +64,6 @@ And... that's it! The Five M Server Status is now fully configured and requires 
 
 :::note
 
-Please note once you submit any of these commands, it may take up to 30 seconds for updates to occur or for the message embed to be posted to the channel.
+Please note once you submit any of these commands, it may take up to 15 seconds for updates to occur or for the message embed to be posted to the channel.
 
 :::
