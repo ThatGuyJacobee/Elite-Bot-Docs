@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Feature-packed',
-    imageUrl: 'https://i.imgur.com/gPw3RqZ.png',
+    imageUrl: 'img/elite-text.png',
     description: (
       <>
         Elite Bot includes tons of essential commands and features that are
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: 'Fully customisable',
-    imageUrl: 'https://i.imgur.com/1EnQJbi.png',
+    imageUrl: 'img/elitegaming.png',
     description: (
       <>
         Elite Bot allows you to customise the majority of features and commands
@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: 'Easy to setup',
-    imageUrl: 'https://i.imgur.com/HMlPmSJ.png',
+    imageUrl: 'img/bot-text.png',
     description: (
       <>
         Elite Bot is extremely simple to setup with very clear and in-depth

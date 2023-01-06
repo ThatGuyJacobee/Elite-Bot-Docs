@@ -131,4 +131,13 @@ module.exports = {
       },
     ],
   ],
+  /*scripts: [
+    // String format.
+    //'https://unpkg.com/emojisplosion/lib/global.js',
+    // Object format.
+    {
+      src: 'https://unpkg.com/emojisplosion/lib/easy.js',
+      async: true,
+    },
+  ],*/
 };
