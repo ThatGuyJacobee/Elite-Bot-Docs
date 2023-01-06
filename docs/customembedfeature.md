@@ -11,7 +11,7 @@ There are two ways in which you can announce or create posts, the simple method 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
 | /announce        | /announce [#channel] [title] [message] [@ping] | Send an announcement embed to a channel within this guild. | Manage Guild | 30 secs |
-| /customembed        | /customembed [title] [description] [#channel] Optional: [#hexcolour] [author] [authorimgurl] [imgurl] [footer] [footerimgurl] [@pingrole] | Post a custom embed to a channel of your choice! | Manage Messages | 30 secs |
+| /customembed        | /customembed [#channel] Optional: [title] [description] [#hexcolour] [author] [authorimgurl] [imgurl] [footer] [footerimgurl] [@pingrole] | Post a custom embed to a channel of your choice! | Manage Messages | 30 secs |
 
 :::tip
 
@@ -21,7 +21,7 @@ One of the recent updates has introduced the ability to use "/n" to create new l
 
 ## Using the custom embed command
 
-The customembed command has three required parameters, the title, description and channel. Everything else is optional for you to configure if you wish, otherwise they won't be present in the embed!
+The customembed command has one required parameter, the channel. Everything else is optional for you to configure if you wish, otherwise they won't be present in the embed!
 
 An example of customembed command:
 

@@ -1,12 +1,18 @@
 ---
 id: fivemstatusfeature
-title: Five M Server Status
+title: Five M Server Status (& Red M)
 slug: /fivem-status-feature
 ---
 
 :::important
 
-This feature is useful for Discord servers that run a Five M (GTA V Modification) community or server. If you don't know what Five M is, then you don't need this feature enabled. You can learn more about Five M at: https://fivem.net/
+This feature is useful for Discord servers that run a Five M (GTA V Modification) or Red M (RDR2 Modification) community or server. If you don't know what Five M/Red M is, then you don't need this feature enabled. You can learn more about Five M at: https://fivem.net/ or https://redm.net/
+
+:::
+
+:::note
+
+The latest update brings support to Red M! Configuration is exactly the same requiring the cfx.re URL of your Red M server instead. 🤠
 
 :::
 
