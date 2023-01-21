@@ -4,6 +4,12 @@ title: Role Select Feature
 slug: /role-select-feature
 ---
 
+:::note
+
+Latest update adds a default "No Roles" option to each role selection menu, in-case a user doesn't want to have any roles! If your menu message is still old, please use /roleselect spawn command to respawn the menu with the latest change!
+
+:::
+
 ## Managing new and old role selection menus
 
 Firstly, you must create a new role selection menu, with a unique name and description which is used for the embed description. Use the command "/roleselection create" which has two arguments needed, the menu name which must be unique and the menu description which is what the message embed will show.

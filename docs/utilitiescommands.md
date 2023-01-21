@@ -24,6 +24,9 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /quickpoll        | /quickpoll [question] [choice1] [choice2] [#channel] | Create a 2 choice quick poll in a channel! | N/A | 15 secs |
 | /rolebutton        | /rolebutton [messageid] [title] [roletogive] | Add a role give/remove button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
 | /shortenurl        | /shortenurl [url] | Shorten a long URL. Powered by teamsnaily.com | N/A | 15 secs |
+| /status fivem        | /status fivem | Check the current Cfx.re FiveM status. | N/A | 15 secs |
+| /status discord        | /status discord | Check the current Discord status. | N/A | 15 secs |
+| /status steam        | /status steam | Check the current Steam status. | N/A | 15 secs |
 | /suggest        | /suggest [title] [description] | Suggest something within this guild. | N/A | 15 secs |
 | /urlbutton        | /urlbutton [messageid] [title] [url] | Add a URL button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
 | /userinfo        | /userinfo [@user] | Return information about a user's Discord account! | N/A | 15 secs |
