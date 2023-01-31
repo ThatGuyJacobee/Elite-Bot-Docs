@@ -12,6 +12,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
 | /8ball    | /8ball [question] | Get an answer to any question! | N/A | 10 secs |
 | /cat        | /cat | See some cute cats! Meow 😺! | N/A | 5 secs |
+| /chatgpt        | /chatgpt [question] | Ask ChatGPT AI a question 👀 | N/A | 15 secs |
 | /coinflip    | /coinflip [Heads/Tails] | Flip a coin! | N/A | 10 secs |
 | /destiny2 vendor    | /destiny2 vendor [name: XUR/Banshee-44/Ada-1] | Get the currently sold items including weapons, armour and mods for any vendor. | N/A | 15 secs |
 | /diceroll    | /diceroll | Roll a 6-sided dice! | N/A | 5 secs |

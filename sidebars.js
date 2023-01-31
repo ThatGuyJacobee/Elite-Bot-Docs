@@ -35,6 +35,7 @@ module.exports = {
 		'xpuserfeature',
 		'customembedfeature',
 		'countinggamefeature',
+		'chatgptfeature',
       ],
     },
     {

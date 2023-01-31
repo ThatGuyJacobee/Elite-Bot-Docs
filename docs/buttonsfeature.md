@@ -16,8 +16,8 @@ Through buttons feature, you can independantly add URL and/or role buttons to AN
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /rolebutton        | /rolebutton [messageid] [title] [roletogive] | Add a role give/remove button to any of the bot's embeds or messages. | Manage Messages | N/A |
-| /urlbutton        | /urlbutton [messageid] [title] [url] | Add a URL button to any of the bot's embeds or messages. | Manage Messages | N/A |
+| /rolebutton        | /rolebutton [messageid] [title] [roletogive] | Add a role give/remove button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
+| /urlbutton        | /urlbutton [messageid] [title] [url] | Add a URL button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
 
 :::tip
 

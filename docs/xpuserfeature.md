@@ -10,11 +10,11 @@ The XP system has a range of commands for users to users and admins to use. Ther
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /xpcurrent        | /xpcurrent [@user] | Check the XP of any user in the guild. | N/A | N/A |
-| /xpleaderboard        | /xpleaderboard | Check the XP leaderboard of this guild. | N/A | N/A |
-| /xprewards        | /xprewards | Display the role rewards for this guild. | N/A | N/A |
-| /xpadd        | /xpadd [@user] [amount] | Add XP to a user in your guild. | Moderate Members | N/A |
-| /xpremove        | /xpremove [@user] [amount] | Remove XP to a user in your guild. | Moderate Members | N/A |
+| /xpcurrent        | /xpcurrent [@user] | Check the XP of any user in the guild. | N/A | 15 secs |
+| /xpleaderboard        | /xpleaderboard | Check the XP leaderboard of this guild. | N/A | 15 secs |
+| /xprewards        | /xprewards | Display the role rewards for this guild. | N/A | 15 secs |
+| /xpadd        | /xpadd [@user] [amount] | Add XP to a user in your guild. | Moderate Members | 15 secs |
+| /xpremove        | /xpremove [@user] [amount] | Remove XP to a user in your guild. | Moderate Members | 15 secs |
 
 :::tip
 

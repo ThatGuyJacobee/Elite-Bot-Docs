@@ -10,10 +10,10 @@ Through the giveaway feature, you can easily create giveaways within your guild,
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /giveaway edit        | /giveaway edit [giveawayid] [changeprize/winneramount/ accountage/requiredrole/addtime/ subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | N/A |
-| /giveaway end        | /giveaway end [giveawayid] | End a giveaway now within your guild. | Manage Events | N/A |
-| /giveaway reroll        | /giveaway reroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | N/A |
-| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] [Optional: accountage/requiredrole/pingusers] | Start a new giveaway for your guild. | Manage Events | N/A |
+| /giveaway edit        | /giveaway edit [giveawayid] [changeprize/winneramount/ accountage/requiredrole/addtime/ subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | 30 secs |
+| /giveaway end        | /giveaway end [giveawayid] | End a giveaway now within your guild. | Manage Events | 30 secs |
+| /giveaway reroll        | /giveaway reroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | 30 secs |
+| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] [Optional: accountage/requiredrole/pingusers] | Start a new giveaway for your guild. | Manage Events | 30 secs |
 
 :::tip
 
