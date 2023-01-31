@@ -33,3 +33,5 @@ Examples of asking questions:
 ![img](../static/img/chatgpt-feature3.png)
 
 ![img](../static/img/chatgpt-feature4.png)
+
+![img](../static/img/chatgpt-feature5.png)
