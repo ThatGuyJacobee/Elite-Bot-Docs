@@ -24,6 +24,12 @@ Please keep in mind this is a beta implementation. At the moment, the command sh
 
 :::
 
-An example of asking a question:
+Examples of asking questions:
 
 ![img](../static/img/chatgpt-feature.png)
+
+![img](../static/img/chatgpt-feature2.png)
+
+![img](../static/img/chatgpt-feature3.png)
+
+![img](../static/img/chatgpt-feature4.png)
