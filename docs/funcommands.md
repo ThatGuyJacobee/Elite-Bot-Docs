@@ -16,6 +16,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /coinflip    | /coinflip [Heads/Tails] | Flip a coin! | N/A | 10 secs |
 | /destiny2 vendor    | /destiny2 vendor [name: XUR/Banshee-44/Ada-1] | Get the currently sold items including weapons, armour and mods for any vendor. | N/A | 15 secs |
 | /diceroll    | /diceroll | Roll a 6-sided dice! | N/A | 5 secs |
+| /imagegenerator    | /imagegenerator [query] | Ask Dall-E 2 AI to generate an image 👀 | N/A | 60 secs |
 | /insult    | /insult | Return a random insult (SFW). | N/A | 10 secs |
 | /lmgt    | /lmgt [search] | Someone asking stupid questions? Let me google that! | N/A | 5 secs |
 | /lookup    | /lookup [ipdomain] | Lookup an IP address or hostname with information. (Public Information) | N/A | 30 secs |

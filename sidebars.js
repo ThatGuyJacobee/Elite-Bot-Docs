@@ -36,6 +36,7 @@ module.exports = {
 		'customembedfeature',
 		'countinggamefeature',
 		'chatgptfeature',
+		'imagegenerationfeature',
       ],
     },
     {
