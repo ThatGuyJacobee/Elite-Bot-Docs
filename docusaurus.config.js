@@ -27,7 +27,11 @@ module.exports = {
           label: 'Documentation',
           position: 'left',
         },
-        //{to: 'blog', label: 'Blog', position: 'left'},
+        {
+			to: 'blog/',
+			label: 'Update Blog',
+			position: 'left'
+		},
 		{
 		  href: 'https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1376969370742&scope=bot%20applications.commands',
           label: 'Invite Elite Bot',

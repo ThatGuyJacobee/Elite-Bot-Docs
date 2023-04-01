@@ -31,6 +31,8 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /urlbutton        | /urlbutton [messageid] [title] [url] | Add a URL button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
 | /userinfo        | /userinfo [@user] | Return information about a user's Discord account! | N/A | 15 secs |
 | /vote        | /vote | Vote for Elite Bot on top.gg! Thank you for your support :D | N/A | 30 secs |
-| /xpcurrent        | /xpcurrent [@user] | Check the XP of any user in the guild. | N/A | 15 secs |
-| /xpleaderboard        | /xpleaderboard | Check the XP leaderboard of this guild. | N/A | 15 secs |
-| /xprewards        | /xprewards | Display the role rewards for this guild. | N/A | 15 secs |
+| /xpcurrent        | /xp current [@user] | Check the XP of any user in the guild. | N/A | 15 secs |
+| /xpdaily        | /xp daily | Claim your daily XP! | N/A | 15 secs |
+| /xpleaderboard        | /xp leaderboard | Check the XP leaderboard of this guild. | N/A | 15 secs |
+| /xprewards        | /xp rewards | Display the role rewards for this guild. | N/A | 15 secs |
+| /xptrivia        | /xp trivia | Claim your daily XP for a correct trivia answer! | N/A | 15 secs |

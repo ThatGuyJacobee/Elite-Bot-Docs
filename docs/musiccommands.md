@@ -5,8 +5,11 @@ slug: /music-commands
 ---
 
 :::warning
-Major Change: Music has been completely deprecated from the main Elite Bot! You must invite Elite Bot Music as a separate bot!
+Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot that you must invite if you wish to continue using it.
+
 [Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
+
+Elite Bot Music is archived and will no longer receive regular updates!
 :::
 
 ## Table of Commands

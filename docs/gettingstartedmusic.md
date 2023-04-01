@@ -15,7 +15,11 @@ For quickest support, head over to the "EG | Elite Bot" category on our discord!
 :::
 
 :::warning
-Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot you must invite now!
+Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot that you must invite if you wish to continue using it.
+
+[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
+
+Elite Bot Music is archived and will no longer receive regular updates!
 :::
 
 ## Navigating the Docs

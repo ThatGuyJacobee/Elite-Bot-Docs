@@ -59,16 +59,6 @@ module.exports = {
         'musiccommands',
       ],
     },
-    /*{
-      type: 'category',
-      label: 'Docusaurus',
-      items: [
-        'doc1',
-        'doc2',
-        'doc3',
-        'mdx',
-      ],
-    },*/
     {
       type: 'link',
       label: 'Join our Discord Server',

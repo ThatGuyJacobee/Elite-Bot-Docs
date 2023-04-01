@@ -8,7 +8,13 @@ Adding Elite Bot Music to your server is very simple!
 
 Use the link below, and follow the Discord OAuth2 prompt in order to add Elite Bot to a server. Please ensure that the requested permissions are given to Elite Bot, otherwise certain features or functions may not work as intended. The table below shows each permission that is needed and for what reason.
 
+:::warning
+Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot that you must invite if you wish to continue using it.
+
 [Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
+
+Elite Bot Music is archived and will no longer receive regular updates!
+:::
 
 # Necessary Permissions
 
