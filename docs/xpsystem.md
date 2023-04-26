@@ -48,7 +48,7 @@ An example of setting the XP system settings:
 
 :::tip
 
-You can use the command **/xprewards** in order to check what the current level role rewards are!
+You can use the command **/xp rewards** in order to check what the current level role rewards are!
 
 :::
 

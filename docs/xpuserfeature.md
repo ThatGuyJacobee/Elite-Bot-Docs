@@ -16,11 +16,11 @@ The XP system has a range of commands for users to users and admins to use. Ther
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /xpcurrent        | /xp current [@user] | Check the XP of any user in the guild. | N/A | 15 secs |
-| /xpdaily        | /xp daily | Claim your daily XP! | N/A | 15 secs |
-| /xpleaderboard        | /xp leaderboard | Check the XP leaderboard of this guild. | N/A | 15 secs |
-| /xprewards        | /xp rewards | Display the role rewards for this guild. | N/A | 15 secs |
-| /xptrivia        | /xp trivia | Claim your daily XP for a correct trivia answer! | N/A | 15 secs |
+| /xp current        | /xp current [@user] | Check the XP of any user in the guild. | N/A | 15 secs |
+| /xp daily        | /xp daily | Claim your daily XP! | N/A | 15 secs |
+| /xp leaderboard        | /xp leaderboard | Check the XP leaderboard of this guild. | N/A | 15 secs |
+| /xp rewards        | /xp rewards | Display the role rewards for this guild. | N/A | 15 secs |
+| /xp trivia        | /xp trivia | Claim your daily XP for a correct trivia answer! | N/A | 15 secs |
 | /xpadd        | /xpadd [@user] [type] [amount] | Add XP to a user in your guild. | Moderate Members | 15 secs |
 | /xpremove        | /xpremove [@user] [type] [amount] | Remove XP to a user in your guild. | Moderate Members | 15 secs |
 
@@ -33,11 +33,11 @@ The daily XP command can be accessed only once per 24 hours, whilst the trivia X
 ## Using User XP commands
 
 There are five user commands for XP, these are:
-- /xpcurrent which checks the XP of any user.
-- /xpdaily which allows the user to claim bonus XP every 24 hours.
-- /xpleaderboard which allows the user to view the top 100 users in the server. 
-- /xprewards which shows the rewards that the guild currently has set.
-- /xptrivia which allows the user to attempt a random trivia question every hour to gain XP.
+- /xp current which checks the XP of any user.
+- /xp daily which allows the user to claim bonus XP every 24 hours.
+- /xp leaderboard which allows the user to view the top 100 users in the server. 
+- /xp rewards which shows the rewards that the guild currently has set.
+- /xp trivia which allows the user to attempt a random trivia question every hour to gain XP.
 
 An example of XP Current command:
 

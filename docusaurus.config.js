@@ -41,8 +41,12 @@ module.exports = {
           label: 'Vote for Elite Bot',
 		},
 		{
-		  href: 'http://discord.eguk.me',
+		  href: 'https://discord.elitegami.ng',
           label: 'Support',
+		},
+		{
+		  href: 'https://status.elite-bot.com/',
+          label: 'Status',
 		},
         {
           href: 'https://github.com/ThatGuyJacobee/Elite-Bot-Docs',
