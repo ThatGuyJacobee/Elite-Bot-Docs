@@ -4,10 +4,20 @@
         <title>Elite Bot Documentation Blog</title>
         <link>https://ThatGuyJacobee.github.io/blog</link>
         <description>Elite Bot Documentation Blog</description>
-        <lastBuildDate>Sat, 01 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Status Page!]]></title>
+            <link>https://ThatGuyJacobee.github.io/blog/status-page</link>
+            <guid>https://ThatGuyJacobee.github.io/blog/status-page</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We now have an Elite Bot Status page which you can rely on to stay updated on the status of the bot. 📡]]></description>
+            <content:encoded><![CDATA[<p>We now have an Elite Bot Status page which you can rely on to stay updated on the status of the bot. 📡</p><p>We take bot uptime seriously and always aim for full 100% uptime! In the rare occurance of a downtime, or for a planned maintenance we will alert this on the status site, but fret not we will continue to post it in our Support Discord as usual too!</p><p>Check it out at the following page: <a href="http://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Elite Bot Status Page</a> 🎉</p>]]></content:encoded>
+            <category>Status</category>
+            <category>Update</category>
+        </item>
         <item>
             <title><![CDATA[XP System V2 Out Now!]]></title>
             <link>https://ThatGuyJacobee.github.io/blog/xp-system-v2</link>

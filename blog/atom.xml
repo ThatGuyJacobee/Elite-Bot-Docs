@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ThatGuyJacobee.github.io/blog</id>
     <title>Elite Bot Documentation Blog</title>
-    <updated>2023-04-01T00:00:00.000Z</updated>
+    <updated>2023-04-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ThatGuyJacobee.github.io/blog"/>
     <subtitle>Elite Bot Documentation Blog</subtitle>
     <icon>https://ThatGuyJacobee.github.io/img/elitegaming.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Status Page!]]></title>
+        <id>https://ThatGuyJacobee.github.io/blog/status-page</id>
+        <link href="https://ThatGuyJacobee.github.io/blog/status-page"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We now have an Elite Bot Status page which you can rely on to stay updated on the status of the bot. 📡]]></summary>
+        <content type="html"><![CDATA[<p>We now have an Elite Bot Status page which you can rely on to stay updated on the status of the bot. 📡</p><p>We take bot uptime seriously and always aim for full 100% uptime! In the rare occurance of a downtime, or for a planned maintenance we will alert this on the status site, but fret not we will continue to post it in our Support Discord as usual too!</p><p>Check it out at the following page: <a href="http://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Elite Bot Status Page</a> 🎉</p>]]></content>
+        <author>
+            <name>ThatGuyJacobee</name>
+            <uri>https://github.com/ThatGuyJacobee</uri>
+        </author>
+        <category label="Status" term="Status"/>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XP System V2 Out Now!]]></title>
         <id>https://ThatGuyJacobee.github.io/blog/xp-system-v2</id>
