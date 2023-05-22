@@ -52,8 +52,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /toggle xpsystem    | /toggle xpsystem [true/false] | Toggle the XP system feature for this guild. | Administrator | 30 secs |
 | /verification menu    | /verification menu | Post the verificaiton menu for this guild. | Manage Guild | 10 secs |
 | /verification settings    | /verification settings [description] [roletogive] | Adjust the Verification feature settings for this guild. | Administrator | 10 secs |
-| /welcome channel    | /welcome channel [#channel] | Set the welcome channel for the guild. | Administrator | 10 secs |
-| /welcome embed    | /welcome embed [title] [description] | Customise some features of the welcome embed for your guild. | Administrator | 10 secs |
+| /welcome config    | /welcome config [#channel] [title] [description] [image] | Set the welcome channel for the guild. | Administrator | 10 secs |
 | /xpsystem roleadd    | /xpsystem roleadd [level] [@role] | Add a role to give to users when reaching a level threshold. | Manage Roles | 15 secs |
 | /xpsystem roleremove    | /xpsystem roleremove [@role] | Remove a role to give to users when reaching a level threshold. | Manage Roles | 15 secs |
 | /xpsystem settings    | /xpsystem settings [xptype] [xpmin] [xpmax] [xpmultiplier] [#levelupchannel] [intervalvc] [#afkvc] | Customise settings for the XP system feature for your guild. | Administrator | 15 secs |
