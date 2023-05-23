@@ -4,10 +4,21 @@
         <title>Elite Bot Documentation Blog</title>
         <link>https://ThatGuyJacobee.github.io/blog</link>
         <description>Elite Bot Documentation Blog</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Welcome Feature v2 Out Now!]]></title>
+            <link>https://ThatGuyJacobee.github.io/blog/welcome-feature-v2</link>
+            <guid>https://ThatGuyJacobee.github.io/blog/welcome-feature-v2</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Good news! The latest rework update is now live improving the welcome feature! ⚡]]></description>
+            <content:encoded><![CDATA[<p>Good news! The latest rework update is now live improving the welcome feature! ⚡</p><p>This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the <a href="http://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Support Discord Server</a> and let me know!</p><p>The other part of the update improves customisation, as the command now allows for modularity, rather than forcing you to setup the title, description and image. The previous command has now been changed to "/welcome config" whilst the toggle command remains the same.</p><p>Check out the welcome feature page for more information!</p><p>Thanks for reading :D</p>]]></content:encoded>
+            <category>Rework</category>
+            <category>V2</category>
+            <category>Update</category>
+        </item>
         <item>
             <title><![CDATA[Status Page!]]></title>
             <link>https://ThatGuyJacobee.github.io/blog/status-page</link>

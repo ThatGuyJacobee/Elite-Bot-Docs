@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ThatGuyJacobee.github.io/blog</id>
     <title>Elite Bot Documentation Blog</title>
-    <updated>2023-04-26T00:00:00.000Z</updated>
+    <updated>2023-05-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ThatGuyJacobee.github.io/blog"/>
     <subtitle>Elite Bot Documentation Blog</subtitle>
     <icon>https://ThatGuyJacobee.github.io/img/elitegaming.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Feature v2 Out Now!]]></title>
+        <id>https://ThatGuyJacobee.github.io/blog/welcome-feature-v2</id>
+        <link href="https://ThatGuyJacobee.github.io/blog/welcome-feature-v2"/>
+        <updated>2023-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good news! The latest rework update is now live improving the welcome feature! ⚡]]></summary>
+        <content type="html"><![CDATA[<p>Good news! The latest rework update is now live improving the welcome feature! ⚡</p><p>This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the <a href="http://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Support Discord Server</a> and let me know!</p><p>The other part of the update improves customisation, as the command now allows for modularity, rather than forcing you to setup the title, description and image. The previous command has now been changed to "/welcome config" whilst the toggle command remains the same.</p><p>Check out the welcome feature page for more information!</p><p>Thanks for reading :D</p>]]></content>
+        <author>
+            <name>ThatGuyJacobee</name>
+            <uri>https://github.com/ThatGuyJacobee</uri>
+        </author>
+        <category label="Rework" term="Rework"/>
+        <category label="V2" term="V2"/>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Status Page!]]></title>
         <id>https://ThatGuyJacobee.github.io/blog/status-page</id>
