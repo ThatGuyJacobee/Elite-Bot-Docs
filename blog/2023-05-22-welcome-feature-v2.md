@@ -11,6 +11,6 @@ This update primarily brings a new customisation option and improves the ease of
 
 The other part of the update improves customisation, as the command now allows for modularity, rather than forcing you to setup the title, description and image. The previous command has now been changed to "/welcome config" whilst the toggle command remains the same.
 
-Check out [the welcome feature page](../docs/welcome-feature) for more information!
+Check out [the welcome feature page](./docs/welcome-feature) for more information!
 
 Thanks for reading :D
