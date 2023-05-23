@@ -6,7 +6,7 @@ slug: /welcome-feature
 
 :::note
 
-Recently reworked to v2: One of the latest update has brought new improvements to this feature including image graphics and improved customisation! 🔥 Check out the blog for more detail!
+Recently reworked to v2: One of the latest update has brought new improvements to this feature including image graphics and improved customisation! 🔥 Check out [the blog](../blog/welcome-feature-v2) for more detail!
 
 :::
 
