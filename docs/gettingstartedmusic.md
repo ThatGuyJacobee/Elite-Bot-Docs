@@ -1,52 +1,54 @@
 ---
 id: gettingstartedmusic
-title: Welcome to Elite Bot Music Docs
+title: Welcome to Elite Music Docs 👋
 slug: /getting-started-music
 ---
 
-Elite Bot Music is a fantastic music bot which uses powerful music and queue systems to provide with highest quality music and a large feature set!
+Elite Music is a feature-packed open-source Discord Music Bot built on top of [discord.js](https://discord.js.org/) & using the latest [discord-player](https://discord-player.js.org/) package.
 
-This documentation provides you with all information about each music command, including usage, examples and customisation options.
+You can find the [Elite Music open-source repository here](https://github.com/ThatGuyJacobee/Elite-Music)!
 
-For any additional support, head over to our [Discord server](http://discord.eguk.me)!
+## Features 💡
+- Wide range of commands
+- Easy to setup, customise and edit
+- Slash commands (djs v14)
+- Support for various streaming platforms
+- Wide range of audio filters
+- Awesome playback UI
+- Additional features including plex media server support.
+- And much more!
+
+This documentation provides you with all key information about configuring your own bot from the repository.
 
 :::tip
-For quickest support, head over to the "EG | Elite Bot" category on our discord!
+Want to test out and demo the bot before hosting and configuring it yourself?
+
+You can **[invite Elite Music to your server here](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")** to test it out!
 :::
 
-:::warning
-Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot that you must invite if you wish to continue using it.
+## Navigating the Docs 🗺️
+Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Music.
 
-[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
+If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elitegami.ng) and report an issue there!
 
-Elite Bot Music is archived and will no longer receive regular updates!
-:::
+## Support 🆘
+Need help setting up the bot or experiencing some trouble? Feel free to head over to the [Support Discord server](https://discord.elitegami.ng) and let me know!
 
-## Navigating the Docs
+Found a bug or issue with the latest Elite Music build? Feel free to open an issue on the GitHub [Repository](https://github.com/ThatGuyJacobee/Elite-Music/issues/new)! I will respond as soon as possible.
 
-Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Bot.
+## Improving these Docs 🛠️
+Are you interested in contributing to this documentation, or you have some excellent suggestions for the future?
 
-If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a github request for change (reviewed daily). Alternatively, you can head over to our Discord server and report an Docs issue there.
+Look no further, you can do so simply by accessing the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Bot-Docs) or by pressing the `Edit this page` button at the bottom of the page you wish to edit. This will force you to create a Fork in order to apply your changes.
 
-## Reporting Elite Bot bugs
+Once you have done all of the changes, you can create a Pull Request on the Repository from the Fork you previously created! This will be reviewed at the earliest opportunity.
 
-We're sorry to hear that you encountered an issue. It's our top priority to assist anyone who's experiencing any abnormalities with Elite Bot.
-If you or anyone else in your community encounter any problems with Elite Bot on your Discord server, you may report it by:
+I'm deeply thankful for any improvements! 😁❤️
 
-* Joining our [Discord server](http://discord.eguk.me) and using the #support channel in the "EG | Elite Bot" category
-* Using the /bugreport command built-in to Elite Bot which sends some logs our way alongside your message and supporting details
+## Key Admonitions 📌
+Across the documentation, you may encounter a range of different admonitions being used to improve user experience and to highlight certain infomation.
 
-Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
-
-## Improving these docs
-
-If you have any suggestions or would like to contribute to this documentation, you may do so by either accessing the [GitHub Page](https://github.com/ThatGuyJacobee/Elite-Bot-Docs) or pressing the "Edit this page" button under each section which will directly allow you to contribute and edit.
-
-Commit changes will be looked at and replied to at the latest available opportunity. I'm deeply greatful for any commits and improvements 😁
-
-## Key Admonitions
-
-Across the Docs you'll see a range of different admonitions being used to improve user experience and to highlight certain infomation.
+These are listed below with the appropriate explenation for each.
 
 :::note
 This is used to show any additional notes that may become useful.

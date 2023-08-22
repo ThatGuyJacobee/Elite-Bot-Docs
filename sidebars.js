@@ -51,11 +51,11 @@ module.exports = {
     },
 	{
       type: 'category',
-      label: 'Elite Bot Music',
+      label: 'Elite Music (Open-Source)',
       items: [
 		'gettingstartedmusic',
-        'addingelitebotmusic',
-        'musicfeature',
+        'installationelitemusic',
+        'optionalfeaturesmusic',
         'musiccommands',
       ],
     },

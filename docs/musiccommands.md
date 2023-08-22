@@ -4,35 +4,29 @@ title: Music Commands 🎵
 slug: /music-commands
 ---
 
-:::warning
-Major Change: Music has been completely deprecated from the main Elite Bot! Elite Bot Music is a separate bot that you must invite if you wish to continue using it.
+This section provides a general list of the available music commands within the latest Elite Music build.
 
-[Invite Elite Bot Music HERE!](https://discord.com/oauth2/authorize?client_id=528660579208921098&permissions=274881129536&scope=bot%20applications.commands "Discord OAuth2")
-
-Elite Bot Music is archived and will no longer receive regular updates!
-:::
-
-## Table of Commands
-
+## Table of Music Commands
 All commands are listed in alphabetical order! Each command comes with an example and usage description, as well as permission needed to run the command and timeout between each usage in seconds!
 
-| Command        |    Example    |  Usage  |  Permission  |  Timeout  |
-| -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /back        | /back | Play the previous song! | N/A | N/A |
-| /bassboost        | /bassboost | Toggle bassboost for music! | N/A | N/A |
-| /clearqueue        | /clearqueue | Clear the current music queue! | N/A | N/A |
-| /jumpqueue        | /jumpqueue [song] | Jump to a specific song in the queue! | N/A | N/A |
-| /loop        | /loop [Off/Track/Queue/Autoplay] | Set the loop type! | N/A | N/A |
-| /nowplaying        | /nowplaying | Check the currently playing song! | N/A | N/A |
-| /pause        | /pause | Pause the current song at the current time! | N/A | N/A |
-| /play        | /play [music] | Plays a song! | N/A | N/A |
-| /playnext        | /playnext [music] | Add a song to the top of the queue! | N/A | N/A |
-| /queue        | /queue [page] | Check the current music that is in the queue! | N/A | N/A |
-| /queuehistory        | /queuehistory [page] | Check the past history of the queue within the guild! | N/A | N/A |
-| /remove        | /remove [song] | Remove a specific song from the queue! | N/A | N/A |
-| /resume        | /resume | Resume the current song at the current time! | N/A | N/A |
-| /seek        | /seek [time] | Seek to another time in the current song! | N/A | N/A |
-| /shuffle        | /shuffle | Shuffle the current queue! | N/A | N/A |
-| /skip        | /skip | Skip the current song! | N/A | N/A |
-| /stop        | /stop | Stops any music playing! | N/A | N/A |
-| /volume        | /volume [amount] | Check or set the current music volume! | N/A | N/A |
+| Command        |    Example    |  Usage  |
+| -------------  | ----------- | -----  |
+| /audiofilter        | /audiofilter [optional: filter] | Check or toggle audio filters! |
+| /back        | /back | Play the previous song! |
+| /clearqueue        | /clearqueue | Clear the current music queue! |
+| /jumpqueue        | /jumpqueue [song] | Jump to a specific song in the queue! |
+| /loop        | /loop [Off/Track/Queue/Autoplay] | Set the loop type! |
+| /nowplaying        | /nowplaying | Check the currently playing song! |
+| /pause        | /pause | Pause the current song at the current time! |
+| /play        | /play [music] | Place a song into the queue! |
+| /playnext        | /playnext [music] | Add a song to the top of the queue! |
+| /plex play        | /plex play [music] | Play a song into the queue! |
+| /plex search        | /plex search [music] | Search songs and playlists. |
+| /queue        | /queue | Check the current music that is in the queue! |
+| /queuehistory        | /queuehistory | Check the past history of the queue within the guild! |
+| /remove        | /remove [song] | Remove a specific song from the queue! |
+| /seek        | /seek [time] | Seek to another time in the current song! |
+| /shuffle        | /shuffle | Shuffle the current queue! |
+| /skip        | /skip | Skip the current song! |
+| /stop        | /stop | Stops any music playing! |
+| /volume        | /volume [optional: amount] | Check or set the current music volume! |
