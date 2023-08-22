@@ -4,7 +4,7 @@ title: Welcome to Elite Bot Docs 👋
 slug: /
 ---
 
-Hi there! Elite Bot a highly customisable and feature-packed Multipurpose Bot!
+Hi there! Elite Bot is a highly customisable and feature-packed Multipurpose Bot!
 
 Elite Bot brings many essential and unique features together, providing solid all-round functionality. It comes with fantastic customisability with moderation, logging, fun and many more unique features and commands!
 

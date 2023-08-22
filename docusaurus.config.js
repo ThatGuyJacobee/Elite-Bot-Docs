@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Elite Bot Documentation',
-  tagline: '',
+  tagline: 'Hi there! Elite Bot is a highly customisable and feature-packed Multipurpose Verfied Discord Bot! 👋',
   url: 'https://ThatGuyJacobee.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -110,7 +110,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Elite Bot & Elite Gaming`,
+      copyright: `Copyright © ${new Date().getFullYear()} Elite Bot & ThatGuyJacobee`,
     },
     zoom: {
       selector: '.markdown :not(em) > img',
