@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: [
     {
       type: 'category',
-      label: 'Introduction',
+      label: 'Introduction 🤖',
       items: [
         'gettingstarted',
         'addingelitebot',
@@ -11,7 +11,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Bot Feature Setup & Config',
+      label: 'Core Bot Features 🛠️',
       items: [
         'xpsystem',
         'loggingfeature',
@@ -28,7 +28,7 @@ module.exports = {
     },
 	{
       type: 'category',
-      label: 'Other Features',
+      label: 'Additional Features 👀',
       items: [
         'buttonsfeature',
 		'giveawayfeature',
@@ -41,7 +41,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Command Categories',
+      label: 'Command Categories 🔠',
       items: [
         'configurationcommands',
         'moderationcommands',
@@ -51,7 +51,7 @@ module.exports = {
     },
 	{
       type: 'category',
-      label: 'Elite Music (Open-Source)',
+      label: 'Elite Music (Open-Source) 🎵',
       items: [
 		'gettingstartedmusic',
         'installationelitemusic',

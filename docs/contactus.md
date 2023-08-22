@@ -1,14 +1,20 @@
 ---
 id: contactus
-title: Contact Us
+title: Support 🆘
 slug: /contact-us
 ---
 
-If you wish to communicate with the Elite Bot team, please follow one of the methods below:
-- Join our support [Discord server](http://discord.elitegami.ng)
-- Contact me via e-mail through: thatguyjacobee@gmail.com
-- Direct Message via Discord: ThatGuyJacobee#9909
+Need help setting up the bot, experiencing some troubles or simply just want to talk? Feel free to head over to the [Support Discord server](https://discord.elitegami.ng) and join in the conversation!
 
-For bug reporting, please use the included /bugreport command which will send logs my way instantly alongside your bug report :D Alternatively, if it's something mission critical or a major issue/flaw, feel free to DM me directly!
+View the sections below for more information about sending suggestions and bug reports, as well as our communication channels which you can contact me through.
 
-For suggestions, feel free to join our Discord server where you can provide feedback! Any feedback and suggestions will be taken very seriously and are much appreciated!
+## Suggestions & Bug Reports 💡🐛
+Found a bug or issue with the Elite Bot? Or you happen to have a fantastic suggestion?
+
+Use the **/elitebot** bugreport or suggestion command to send it directly to our Support Discord server to be reviewed promptly! It is highly recommended that you join our [Support Discord server](https://discord.elitegami.ng) if you wish to further engage and talk about your issues and suggestions.
+
+## Communication Channels 🌍
+If you wish to communicate with the Elite Bot developer, please follow one of the methods below:
+- Join our [support Discord server](http://discord.elitegami.ng)
+- Contact me directly via e-mail: thatguyjacobee@gmail.com
+- Direct Message via Discord: @thatguyjacobee

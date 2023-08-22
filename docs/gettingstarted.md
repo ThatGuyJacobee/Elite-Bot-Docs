@@ -1,44 +1,55 @@
 ---
 id: gettingstarted
-title: Welcome to Elite Bot Docs
+title: Welcome to Elite Bot Docs 👋
 slug: /
 ---
 
-Elite Bot is a highly customisable and feature packed Discord Bot with simple setup and in-depth documentation.
+Hi there! Elite Bot a highly customisable and feature-packed Multipurpose Bot!
 
-This documentation provides you with all information about each command/module, including usage, examples and customisation options.
+Elite Bot brings many essential and unique features together, providing solid all-round functionality. It comes with fantastic customisability with moderation, logging, fun and many more unique features and commands!
 
-For any additional support, head over to our [Discord server](http://discord.eguk.me)!
+## Features 💡
+- Robust & Customisable XP System 🎚️
+- Discord Logging 📄
+- ChatGPT Feature 🤖
+- Dall-E 2 Image Generation Feature 🖼️
+- Five M & Red M Server Status Feature 📡
+- Advanced Role Selection Menu System 🔠
+- Anti-Spam & Anti-Similarity Feature 🚫
+- Welcome & Join Roles Feature 👋
+- Member Count Feature 🔢
+- Add URL & Role buttons independently to any message 🔗
+- Join a VC to create your own 🆕
+- Essential & unique moderation and utility commands 📢
+- And much more...! 👀
 
-:::tip
-For quickest support, head over to the "EG | Elite Bot" category on our discord!
-:::
+This documentation provides you with all the key information needed about configuring the bot, as well as about each command & module, including usage, examples and customisation options.
 
-## Navigating the Docs
+## Navigating the Docs 🗺️
+Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Music.
 
-Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Bot.
+If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elitegami.ng) and report an issue there!
 
-If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a github request for change (reviewed daily). Alternatively, you can head over to our Discord server and report an Docs issue there.
+## Support 🆘
+Need help setting up the bot, experiencing some troubles or simply just want to talk? Feel free to head over to the [Support Discord server](https://discord.elitegami.ng) and join in the conversation!
 
-## Reporting Elite Bot bugs
+Found a bug or issue with the Elite Bot? Or you happen to have a fantastic suggestion?
 
-We're sorry to hear that you encountered an issue. It's our top priority to assist anyone who's experiencing any abnormalities with Elite Bot.
-If you or anyone else in your community encounter any problems with Elite Bot on your Discord server, you may report it by:
+Use the **/elitebot** bugreport or suggestion command to send it directly to our Support Discord server to be reviewed promptly! It is highly recommended that you join our [Support Discord server](https://discord.elitegami.ng) if you wish to further engage and talk about your issues and suggestions.
 
-* Joining our [Discord server](http://discord.eguk.me) and using the #support channel in the "EG | Elite Bot" category
-* Using the /bugreport command built-in to Elite Bot which sends some logs our way alongside your message and supporting details
+## Improving these Docs 🛠️
+Are you interested in contributing to this documentation, or you have some excellent suggestions for the future?
 
-Once we receive your bug report, we may proceed to do more debugging in order to find the root cause of the bug and to fix it. This may involve some action from you depending on the scenario.
+Look no further, you can do so simply by accessing the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Bot-Docs) or by pressing the `Edit this page` button at the bottom of the page you wish to edit. This will force you to create a Fork in order to apply your changes.
 
-## Improving these docs
+Once you have done all of the changes, you can create a Pull Request on the Repository from the Fork you previously created! This will be reviewed at the earliest opportunity.
 
-If you have any suggestions or would like to contribute to this documentation, you may do so by either accessing the [GitHub Page](https://github.com/ThatGuyJacobee/Elite-Bot-Docs) or pressing the "Edit this page" button under each section which will directly allow you to contribute and edit.
+I'm deeply thankful for any improvements! 😁❤️
 
-Commit changes will be looked at and replied to at the latest available opportunity. I'm deeply greatful for any commits and improvements 😁
+## Key Admonitions 📌
+Across the documentation, you may encounter a range of different admonitions being used to improve user experience and to highlight certain infomation.
 
-## Key Admonitions
-
-Across the Docs you'll see a range of different admonitions being used to improve user experience and to highlight certain infomation.
+These are listed below with the appropriate explenation for each.
 
 :::note
 This is used to show any additional notes that may become useful.

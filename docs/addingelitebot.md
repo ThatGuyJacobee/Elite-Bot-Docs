@@ -1,19 +1,27 @@
 ---
 id: addingelitebot
-title: Adding Elite Bot
+title: Adding Elite Bot 🛬
 slug: /adding-elite-bot
 ---
 
-Adding Elite Bot to your server is very simple!
+## Inviting Elite Bot 👋
+Are you ready to invite Elite Bot to your server! 👀
 
-Use the link below, and follow the Discord OAuth2 prompt in order to add Elite Bot to a server. Please ensure that the requested permissions are given to Elite Bot, otherwise certain features or functions may not work as intended. The table below shows each permission that is needed and for what reason.
-
-[Invite Elite Bot HERE!](https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1376969370742&scope=bot%20applications.commands "Discord OAuth2")
-
-# Necessary Permissions
+Inviting Elite Bot is simple, all you have to do is follow the **[Invite Link](https://discord.com/oauth2/authorize?client_id=723275350922100840&permissions=1376969370742&scope=bot%20applications.commands "Discord OAuth2")**, select the server that you wish to add Elite Bot to and finally agree to the permissions that are set.
 
 :::caution
-To ensure full functionality, ensure the permissions below are granted to Elite Bot, otherwise certain features may not function correctly and may result in errors!
+To ensure full functionality, we **highly recommend** that the permissions below are granted to Elite Bot, otherwise certain features or commands may not function correctly and as expected!
+:::
+
+Now hit the **Authorize** button, and Elite Bot has joined your server! Congratulations! 🎉
+
+## Recommended Permissions 👍
+In order for the bot to function correctly, certain permissions must be granted for Elite Bot when being invited to your server, or must be edited if Elite Bot is already in your server.
+
+The table below, presents all of the permissions that Elite Bot required in one way or another based on the feature-set and commands currently available. Beside each permission, the Elite Bot feature, module or command which requires the permission is described to provide a clear reasoning for each permission.
+
+:::warning
+We do NOT recommend providing any bot or user with **Administrator** permission privilage, including Elite Bot. This is because the Administrator permission grants access to everything on your server which is extremely unnecessary, but also unsafe.
 :::
 
 | Permission Name        |      Usage by Bot      |
