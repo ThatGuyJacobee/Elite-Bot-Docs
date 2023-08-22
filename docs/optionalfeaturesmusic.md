@@ -22,3 +22,5 @@ Elite Music comes with a DJ Mode optional feature, which locks down the use of c
 
 1. Firstly, set `ENABLE_DJMODE` to `true`.
 2. Now create a role on your server which you wish to be used as the DJ Role. Copy the ID of the role and place it into the `DJ_ROLE` field.
+
+This is a test
