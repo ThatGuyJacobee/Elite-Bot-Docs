@@ -9,6 +9,7 @@ module.exports = {
   organizationName: 'ThatGuyJacobee', // Usually your GitHub org/user name.
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
   themeConfig: {
+	metadata: [{name: 'description', content: 'Hi there! Elite Bot is a highly customisable and feature-packed Multipurpose Verfied Discord Bot! 👋'}, {name: 'keywords', content: 'elitebot, discordbot, elite, elitebotdocs, documentation'}],
 	colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
