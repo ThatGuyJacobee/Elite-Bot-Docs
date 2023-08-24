@@ -5,11 +5,13 @@ authors: jacob
 tags: [Elite-Music, Music, Update]
 ---
 
-Awesome news for Music listener! Elite Music update v1.2 is now live on the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Music)! 🎵🎉
+Awesome news for Music listeners! Elite Music update v1.2 is now live on the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Music)! 🎵🎉
 
 This update brings a new optional feature, Plex Media Server support which allows you to directly stream and play music from your own Plex Server! Alongside this, there have been a wide range of bug fixes and general code imporvements throughout. 🚀
 
 Get the latest v1.2 update on the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Music/releases/tag/v1.2)! Don't forget to update your `.env` file with the new options if you are updating from a previous version. 👍
+
+Make sure to leave a star on the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Music) if you are satisfied! ⭐
 
 ## First time hearing of Elite Music? 👀
 Elite Music is a feature-packed open-source Discord Music Bot built on top of [discord.js](https://discord.js.org/) & using the latest [discord-player](https://discord-player.js.org/) package. 
