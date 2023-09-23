@@ -9,12 +9,13 @@ Elite Music is a feature-packed open-source Discord Music Bot built on top of [d
 You can find the [Elite Music open-source repository here](https://github.com/ThatGuyJacobee/Elite-Music)!
 
 ## Features 💡
-- Wide range of commands
-- Easy to setup, customise and edit
-- Slash commands (djs v14)
-- Support for various streaming platforms
-- Wide range of audio filters
-- Awesome playback UI
+- Wide range of commands.
+- Easy to setup, customise and edit.
+- Slash commands (djs v14).
+- Support for various streaming platforms.
+- Wide range of audio filters.
+- Docker Support.
+- Awesome playback UI.
 - Additional features including plex media server support.
 - And much more!
 

@@ -4,7 +4,7 @@ title: Privacy Policy
 slug: /privacy-policy
 ---
 
-Last Updated: 03/10/2022
+Last Updated: 23/09/2023
 
 Elite Bot ("us", "we" or "our") operates https://elite-bot.com (the "site") & Elite Bot Discord Bot (the "bot"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site and Bot.
 
@@ -37,7 +37,7 @@ The security of your Personal Information is important to us, but remember that 
 
 ## Children Privacy
 
-Our Site and Bot do not address anyone under the age of 13. We don't knowingly collect personally identifiable information from anyone uder the age of 13. If you are a parent/guardian and You are aware that Your Child has proviuded Us with Personal Data, please contact us. Likewise, if we become aware that We have collected Personal Data from anyone under the age of 13, We will take steps to remove it from Our servers.
+Our Site and Bot do not address anyone under the age of 13. We don't knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent/guardian and You are aware that Your Child has provided Us with Personal Data, please contact us. Likewise, if we become aware that We have collected Personal Data from anyone under the age of 13, We will take steps to remove it from Our servers.
 
 Please be aware that via Discord's policy, you MUST be over the age of 13 to have a Discord Account. https://discord.com/terms
 
@@ -45,12 +45,13 @@ Please be aware that via Discord's policy, you MUST be over the age of 13 to hav
 
 The Privacy Policy is effective as of 21/09/2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Serivce after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
 If we make any material changes to this Privacy Policy, we will notify you either by placing a prominent notice on our website or discord server or by Direct Messaging Guild Owners via Discord.
 
-## Contact Us
+## Communication Channels
 
-If you wish to communicate with the Elite Bot team, please follow one of the methods below:
-- Join our support [Discord server](http://discord.eguk.me)
-- Contact us via e-mail through: elitebot@elite-gaming.co.uk
+If you wish to communicate with the Elite Bot developer, please follow one of the methods below:
+- Join our [support Discord server](http://discord.elitegami.ng)
+- Contact me directly via e-mail: thatguyjacobee@gmail.com
+- Direct Message via Discord: @thatguyjacobee
