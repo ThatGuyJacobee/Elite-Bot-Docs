@@ -16,6 +16,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /clearqueue        | /clearqueue | Clear the current music queue! |
 | /jumpqueue        | /jumpqueue [song] | Jump to a specific song in the queue! |
 | /loop        | /loop [Off/Track/Queue/Autoplay] | Set the loop type! |
+| /lyrics        | /lyrics [query] | Get the lyrics for a song! |
 | /nowplaying        | /nowplaying | Check the currently playing song! |
 | /pause        | /pause | Pause the current song at the current time! |
 | /play        | /play [music] | Place a song into the queue! |
