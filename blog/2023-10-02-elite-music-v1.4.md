@@ -7,6 +7,8 @@ tags: [Elite-Music, Music, Update]
 
 Great news for Elite Music users, the bot has recently had a bunch of awesome improvements over the past two revisions... now available on the [GitHub Repository](https://github.com/ThatGuyJacobee/Elite-Music)! 🎉
 
+![Elite Music v1.4](https://github.com/ThatGuyJacobee/Elite-Bot-Docs/assets/42719082/879bbc0e-10a3-460f-984a-9bebe9aa1857)
+
 ## Headline Improvements
 - Docker Support 🐳 - Elite Music can now be installed via Docker Image [via Docker Hub](https://hub.docker.com/r/thatguyjacobee/elitemusic) or through Docker Compose!
 - Play command searching 🔍 - The regular play command will now return a search embed if more than one result is found for your query.
