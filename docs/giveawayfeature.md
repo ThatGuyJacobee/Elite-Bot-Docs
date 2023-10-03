@@ -4,26 +4,26 @@ title: Giveaway Feature
 slug: /giveaway-feature
 ---
 
+:::note
+
+Recently reworked to v2: This update adds a couple of new parameters for creating giveaways, improves code and provides new textual looks for the giveaway embeds and messages! One headline new option is CAPTCHA verification prior to joining a giveaway to prevent bots, this is on by default. 🎁
+
+:::
+
 ## How does this work?
 
 Through the giveaway feature, you can easily create giveaways within your guild, with a range of customisation including timing, requires roles, minimum account age requirements and more! There are total of four utility commands related to giveaways which used to create and manage giveaways within your guild which can be seen in the table below!
 
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
-| /giveaway edit        | /giveaway edit [giveawayid] [changeprize/winneramount/ accountage/requiredrole/addtime/ subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | 30 secs |
+| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] [Optional: description/captcha/accountage/serverage/requiredrole/pingusers] | Start a new giveaway for your guild. | Manage Events | 30 secs |
+| /giveaway edit        | /giveaway edit [giveawayid] [Optional: changeprize/description/winneramount/captcha/accountage/serverage/requiredrole/addtime/subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | 30 secs |
 | /giveaway end        | /giveaway end [giveawayid] | End a giveaway now within your guild. | Manage Events | 30 secs |
 | /giveaway reroll        | /giveaway reroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | 30 secs |
-| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] [Optional: accountage/requiredrole/pingusers] | Start a new giveaway for your guild. | Manage Events | 30 secs |
-
-:::tip
-
-Any users that enter the giveaway need to have their DMs open in order to be eligable to enter, otherwise the bot will return a message letting the user know to do so!
-
-:::
 
 ## Starting a giveaway
 
-Beginning a giveaway is an easy process, the command requires a duration, prize, winners amount and the channel as essential parameters. The other three parameters; minimum account age, required role and ping a role to notifiy of the giveaway are optional!
+Beginning a giveaway is an easy process, the command requires a duration, prize, winners amount and the channel as essential parameters. The other couple of parameters are all optional to be used if you wish!
 
 An example of starting a giveaway:
 

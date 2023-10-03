@@ -17,10 +17,10 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | /customembed        | /customembed [#channel] Optional: [title] [description] [#hexcolour] [author] [authorimgurl] [imgurl] [footer] [footerimgurl] [@pingrole] | Post a custom embed to a channel of your choice! | Manage Messages | 30 secs |
 | /elitebot bugreport        | /elitebot bugreport [title] [description] [reapeatability: once, few times, always] Optional: [imgurl] | Have you encountered a bug? Let us know, we are keen to resolve this! | N/A | 60 secs |
 | /elitebot suggestion        | /elitebot suggestion [title] [description] Optional: [imgurl] | Have a fantastic suggestion for Elite Bot? Let us know we are keen to hear it! | N/A | 60 secs |
-| /giveaway edit        | /giveaway edit [giveawayid] [changeprize/winneramount/ accountage/requiredrole/addtime/ subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | 30 secs |
+| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] [Optional: description/captcha/accountage/serverage/requiredrole/pingusers] | Start a new giveaway for your guild. | Manage Events | 30 secs |
+| /giveaway edit        | /giveaway edit [giveawayid] [Optional: changeprize/description/winneramount/captcha/accountage/serverage/requiredrole/addtime/subtime] | Edit the prize of a giveaway now within your guild. | Manage Events | 30 secs |
 | /giveaway end        | /giveaway end [giveawayid] | End a giveaway now within your guild. | Manage Events | 30 secs |
 | /giveaway reroll        | /giveaway reroll [giveawayid] [howmany] | Re-roll a giveaway within your guild. | Manage Events | 30 secs |
-| /giveaway start        | /giveaway start [duration] [prize] [winners] [#channel] Optional: [accountage] [requiredrole] [pingusers] | Start a new giveaway for your guild. | Manage Events | 30 secs |
 | /help        | /help | Get information about my commands! | N/A | 30 secs |
 | /quickpoll        | /quickpoll [question] [choice1] [choice2] [#channel] | Create a 2 choice quick poll in a channel! | N/A | 15 secs |
 | /rolebutton        | /rolebutton [messageid] [title] [roletogive] Optional: [emoji] | Add a role give/remove button to any of the bot's embeds or messages. | Manage Messages | 10 secs |
