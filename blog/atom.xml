@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ThatGuyJacobee.github.io/blog</id>
     <title>Elite Bot Documentation Blog</title>
-    <updated>2023-10-02T00:00:00.000Z</updated>
+    <updated>2023-10-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ThatGuyJacobee.github.io/blog"/>
     <subtitle>Elite Bot Documentation Blog</subtitle>
     <icon>https://ThatGuyJacobee.github.io/img/elitegaming.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Elite Bot v3.6 Out Now!]]></title>
+        <id>https://ThatGuyJacobee.github.io/blog/elite-bot-v3.6</id>
+        <link href="https://ThatGuyJacobee.github.io/blog/elite-bot-v3.6"/>
+        <updated>2023-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Latest updates v3.6+ are now live, introducing the updated Giveaway v2 Re-work alongside a bunch of awesome tweaks and improvements! 🔥]]></summary>
+        <content type="html"><![CDATA[<p>Latest updates v3.6+ are now live, introducing the updated Giveaway v2 Re-work alongside a bunch of awesome tweaks and improvements! 🔥</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-improvements">Key Improvements:<a href="#key-improvements" class="hash-link" aria-label="Direct link to Key Improvements:" title="Direct link to Key Improvements:">​</a></h2><ul><li>GW Buttons 🔳 - The new giveaway system uses buttons to register entries, which allows for improved checks as well as removes the need to require users to use DMs.</li><li>GW Customisation 🛍️ - Three new parameters for giveaways, including description, captcha and serverage.</li><li>GW Captcha 🤖 - By default, all new giveaways will run with the CAPTCHA check on, reducing the chance of botted entries.</li><li>Verification System ✅ - Upgraded the Captcha system to an improved flow, including adding time out to prevent spam.</li></ul><p>Check out <a href="/docs/giveaway-feature">the giveaway feature page</a> for more information about Giveaway System v2 usage.</p><p>Make sure to join the <a href="https://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Elite Group</a> (support server) for further detailed project notes and to stay updated with the latest Elite news!</p><p>Thank you for reading! ⭐</p>]]></content>
+        <author>
+            <name>ThatGuyJacobee</name>
+            <uri>https://github.com/ThatGuyJacobee</uri>
+        </author>
+        <category label="Rework" term="Rework"/>
+        <category label="V2" term="V2"/>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elite Music updates!]]></title>
         <id>https://ThatGuyJacobee.github.io/blog/elite-music-v1.4</id>
