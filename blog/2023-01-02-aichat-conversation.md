@@ -13,7 +13,7 @@ Want to ask a question? Or simply summarise some information... no problem, ask 
 
 You can even select between private or public conversation replies, and set a conversation style for the bot, to make it either balanced, more creative or more precise. 🙌
 
-Check out the [AI Chat Conversation feature page](../../docs/aichatfeature) for further detailed information! 🤓
+Check out the [AI Chat Conversation feature page](../../docs/aichat-feature) for further detailed information! 🤓
 
 Make sure to join the [Elite Group](https://discord.elitegami.ng) (support server) for further detailed project notes and to stay updated with the latest Elite news!
 
