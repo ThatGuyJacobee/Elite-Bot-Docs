@@ -92,5 +92,16 @@
             <category>Intro</category>
             <category>Update Blog</category>
         </item>
+        <item>
+            <title><![CDATA[AI Chat Conversation Feature out now!]]></title>
+            <link>https://ThatGuyJacobee.github.io/blog/aichat-conversation</link>
+            <guid>https://ThatGuyJacobee.github.io/blog/aichat-conversation</guid>
+            <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our latest update v3.7 is now live, which brings a new AI Chat Conversation feature into Elite Bot! 🤖💬]]></description>
+            <content:encoded><![CDATA[<p>Our latest update v3.7 is now live, which brings a new AI Chat Conversation feature into Elite Bot! 🤖💬</p><p>You can now use Elite Bot to have a conversation with AI at any time. This is simply done through the <strong>/aichat</strong> command on any server with Elite Bot on it, for free and with no usage limits! 💪</p><p>Want to ask a question? Or simply summarise some information... no problem, ask the Elite Bot and you will promptly receive a detailed reply with all the info you need. 🔥</p><p>You can even select between private or public conversation replies, and set a conversation style for the bot, to make it either balanced, more creative or more precise. 🙌</p><p>Check out the <a href="/docs/aichat-feature">AI Chat Conversation feature page</a> for further detailed information! 🤓</p><p>Make sure to join the <a href="https://discord.elitegami.ng" target="_blank" rel="noopener noreferrer">Elite Group</a> (support server) for further detailed project notes and to stay updated with the latest Elite news!</p><p>Thank you for reading! ⭐</p>]]></content:encoded>
+            <category>Update</category>
+            <category>AI</category>
+            <category>Elite-Bot</category>
+        </item>
     </channel>
 </rss>
