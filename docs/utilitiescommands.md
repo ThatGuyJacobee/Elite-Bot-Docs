@@ -11,6 +11,7 @@ All commands are listed in alphabetical order! Each command comes with an exampl
 | Command        |    Example    |  Usage  |  Permission  |  Timeout  |
 | -------------  | :-----------: | -----  |  ----------  |  -------  |
 | /about        | /about | Return information about Elite Bot! | N/A | 10 secs |
+| /aichat        | /aichat [prompt] Optional: [private] [style] | Have a conversation with AI. | N/A | 15 secs |
 | /avatar        | /avatar [@user] | What user's avatar should be returned? | N/A | 15 secs |
 | /botinfo        | /botinfo | Return information about Elite Bot! | N/A | 10 secs |
 | /bug        | /bug [title] [description] | Submit a bug within this guild. | N/A | 15 secs |
