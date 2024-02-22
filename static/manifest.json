@@ -1,0 +1,11 @@
+{
+    "short_name": "EB Docs",
+    "name": "Elite Bot Docs",
+    "lang": "en-US",
+    "start_url": "/",
+    "background_color": "#1b1b1d",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fd0201"
+}
+  

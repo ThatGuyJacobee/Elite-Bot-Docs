@@ -151,6 +151,34 @@ module.exports = {
     ],
   ],
   plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/elitegaming.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // your PWA manifest
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#fd0201',
+          },
+        ],
+      },
+    ],
     require.resolve('docusaurus-plugin-image-zoom')
   ],
   /*scripts: [
