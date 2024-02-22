@@ -174,7 +174,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'theme-color',
-            content: '#fd0201',
+            content: '#1b1b1d',
           },
           {
             tagName: 'meta',
