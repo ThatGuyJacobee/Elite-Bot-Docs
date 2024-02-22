@@ -25,7 +25,7 @@
         },
         {
           "src": "/images/pwa-mask-192.png",
-          "sizes": "196x196",
+          "sizes": "192x192",
           "type": "image/png",
           "purpose": "maskable"
         }
