@@ -32,7 +32,7 @@ An example of setting the welcome channel:
 
 :::tip
 
-You can use "{username}" within the title field if you wish to include the user's username as part of the title. You can also use "/n" to create new lines within your description.
+You can use `{username}` within the title field if you wish to include the user's username as part of the title. You can also use "/n" to create new lines within your description.
 
 :::
 
