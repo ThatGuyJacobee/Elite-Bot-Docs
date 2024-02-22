@@ -6,6 +6,29 @@
     "background_color": "#1b1b1d",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#fd0201"
+    "theme_color": "#fd0201",
+    "icons": [
+        {
+          "src": "/images/pwa-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/images/pwa-256.png",
+          "type": "image/png",
+          "sizes": "256x256"
+        },
+        {
+          "src": "/images/pwa-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+          "src": "/images/pwa-mask-192.png",
+          "sizes": "196x196",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ]
 }
   
