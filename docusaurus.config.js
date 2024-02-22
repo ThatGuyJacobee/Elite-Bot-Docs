@@ -195,7 +195,7 @@ module.exports = {
             tagName: 'link',
             rel: 'mask-icon',
             href: '/img/elitegaming.png',
-            color: '#fd0201)',
+            color: '#fd0201',
           },
           {
             tagName: 'meta',
