@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8185],{703:e=>{e.exports=JSON.parse('{"label":"Elite-Music","permalink":"/blog/tags/elite-music","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
