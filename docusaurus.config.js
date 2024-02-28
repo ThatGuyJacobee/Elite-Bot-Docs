@@ -210,6 +210,25 @@ module.exports = {
         ],
       },
     ],
+	[
+      '@docusaurus/plugin-client-redirects',
+      {
+        fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
+        toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
+        redirects: [
+          // /docs/oldDoc -> /docs/newDoc
+          {
+            to: '/docs/contact-us',
+            from: '/docs/support',
+          },
+          // Redirect from multiple old paths to the new path
+          /*{
+            to: '/docs/newDoc2',
+            from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
+          },*/
+        ],
+      },
+    ],
     require.resolve('docusaurus-plugin-image-zoom')
   ],
   /*scripts: [
