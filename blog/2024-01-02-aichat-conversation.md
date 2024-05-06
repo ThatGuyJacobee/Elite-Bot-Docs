@@ -15,6 +15,6 @@ You can even select between private or public conversation replies, and set a co
 
 Check out the [AI Chat Conversation feature page](../../docs/aichat-feature) for further detailed information! 🤓
 
-Make sure to join the [Elite Group](https://discord.elitegami.ng) (support server) for further detailed project notes and to stay updated with the latest Elite news!
+Make sure to join the [Elite Group](https://discord.elite-bot.com) (support server) for further detailed project notes and to stay updated with the latest Elite news!
 
 Thank you for reading! ⭐

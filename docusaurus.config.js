@@ -42,7 +42,7 @@ module.exports = {
           label: 'Vote for Elite Bot',
 		},
 		{
-		  href: 'https://discord.elitegami.ng',
+		  href: 'https://discord.elite-bot.com',
           label: 'Support',
 		},
 		{

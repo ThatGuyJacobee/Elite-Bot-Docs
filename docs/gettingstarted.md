@@ -28,14 +28,14 @@ This documentation provides you with all the key information needed about config
 ## Navigating the Docs 🗺️
 Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Music.
 
-If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elitegami.ng) and report an issue there!
+If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elite-bot.com) and report an issue there!
 
 ## Support 🆘
-Need help setting up the bot, experiencing some troubles or simply just want to talk? Feel free to head over to the [Support Discord server](https://discord.elitegami.ng) and join in the conversation!
+Need help setting up the bot, experiencing some troubles or simply just want to talk? Feel free to head over to the [Support Discord server](https://discord.elite-bot.com) and join in the conversation!
 
 Found a bug or issue with the Elite Bot? Or you happen to have a fantastic suggestion?
 
-Use the **/elitebot** bugreport or suggestion command to send it directly to our Support Discord server to be reviewed promptly! It is highly recommended that you join our [Support Discord server](https://discord.elitegami.ng) if you wish to further engage and talk about your issues and suggestions.
+Use the **/elitebot** bugreport or suggestion command to send it directly to our Support Discord server to be reviewed promptly! It is highly recommended that you join our [Support Discord server](https://discord.elite-bot.com) if you wish to further engage and talk about your issues and suggestions.
 
 ## Improving these Docs 🛠️
 Are you interested in contributing to this documentation, or you have some excellent suggestions for the future?

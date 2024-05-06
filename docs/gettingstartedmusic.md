@@ -30,10 +30,10 @@ You can **[invite Elite Music to your server here](https://discord.com/oauth2/au
 ## Navigating the Docs 🗺️
 Use the left-side bar to navigate around different parts of the documentations. Within each category, there are sub-topics with different information about commands/modules or other features of Elite Music.
 
-If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elitegami.ng) and report an issue there!
+If you think that something is missing across any parts of the documentation, you may use "Edit this page" to create a GitHub PR for change (reviewed daily). You can also head over to our [Discord server](https://discord.elite-bot.com) and report an issue there!
 
 ## Support 🆘
-Need help setting up the bot or experiencing some trouble? Feel free to head over to the [Support Discord server](https://discord.elitegami.ng) and let me know!
+Need help setting up the bot or experiencing some trouble? Feel free to head over to the [Support Discord server](https://discord.elite-bot.com) and let me know!
 
 Found a bug or issue with the latest Elite Music build? Feel free to open an issue on the GitHub [Repository](https://github.com/ThatGuyJacobee/Elite-Music/issues/new)! I will respond as soon as possible.
 
