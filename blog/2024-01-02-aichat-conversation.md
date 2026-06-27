@@ -7,6 +7,8 @@ tags: [Update, AI, Elite-Bot]
 
 Our latest update v3.7 is now live, which brings a new AI Chat Conversation feature into Elite Bot! 🤖💬
 
+<!--truncate-->
+
 You can now use Elite Bot to have a conversation with AI at any time. This is simply done through the **/aichat** command on any server with Elite Bot on it, for free and with no usage limits! 💪
 
 Want to ask a question? Or simply summarise some information... no problem, ask the Elite Bot and you will promptly receive a detailed reply with all the info you need. 🔥
