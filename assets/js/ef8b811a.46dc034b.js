@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"ThatGuyJacobee","title":"Developer","url":"https://github.com/ThatGuyJacobee","imageURL":"https://avatars.githubusercontent.com/u/42719082?v=4","key":"jacob","page":null,"count":9}]}')}}]);
