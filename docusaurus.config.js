@@ -4,7 +4,11 @@ module.exports = {
   url: 'https://ThatGuyJacobee.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   favicon: 'img/elitegaming.ico',
   organizationName: 'ThatGuyJacobee', // Usually your GitHub org/user name.
   projectName: 'Elite-Bot-Docs', // Usually your repo name.
