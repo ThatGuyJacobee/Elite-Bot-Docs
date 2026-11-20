@@ -15,6 +15,6 @@ Use the **/elitebot** bugreport or suggestion command to send it directly to our
 
 ## Communication Channels 🌍
 If you wish to communicate with the Elite Bot developer, please follow one of the methods below:
-- Join our [support Discord server](http://discord.elitegami.ng)
+- Join our [support Discord server](https://discord.elite-bot.com)
 - Contact me directly via e-mail: thatguyjacobee@gmail.com
 - Direct Message via Discord: @thatguyjacobee

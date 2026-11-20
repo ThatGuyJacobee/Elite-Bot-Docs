@@ -9,7 +9,7 @@ Good news! The latest rework update is now live improving the welcome feature! â
 
 <!--truncate-->
 
-This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the [Support Discord Server](http://discord.elitegami.ng) and let me know!
+This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the [Support Discord Server](https://discord.elite-bot.com) and let me know!
 
 The other part of the update improves customisation, as the command now allows for modularity, rather than forcing you to setup the title, description and image. The previous command has now been changed to "/welcome config" whilst the toggle command remains the same.
 

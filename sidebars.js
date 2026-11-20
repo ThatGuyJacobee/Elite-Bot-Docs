@@ -61,7 +61,7 @@ module.exports = {
     {
       type: 'link',
       label: 'Join our Discord Server',
-      href: 'http://discord.eguk.me',
+      href: 'https://discord.elite-bot.com',
     },
   ],
 };

@@ -85,7 +85,7 @@ module.exports = {
           items: [
             {
               label: 'Support Discord',
-              href: 'http://discord.eguk.me',
+              href: 'https://discord.elite-bot.com',
             },
 			{
               label: 'Twitter',

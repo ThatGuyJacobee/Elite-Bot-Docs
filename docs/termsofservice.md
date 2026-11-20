@@ -4,50 +4,74 @@ title: Terms of Service
 slug: /terms-of-service
 ---
 
-Last Updated: 23/09/2023
+Last Updated: 20/11/2026
 
-Elite Bot ("us", "we" or "our") operates https://elite-bot.com (the "site") & Elite Bot Discord Bot (the "bot"). This page informs you of our terms and conditions for usage of the Site and Bot.
+These terms apply to https://elite-bot.com (the "site") and the Elite Bot Discord bot (the "bot"). By inviting the bot, using its commands or using the site, you agree to these terms. If you do not agree, do not use Elite Bot.
 
-## The Basics of using Elite Bot
+You must also follow Discord's Terms of Service and Community Guidelines. Where these terms conflict with Discord's rules, Discord's rules apply to your use of Discord.
 
-As of currently, all configuration for Elite Bot occurs through the built-in commands, which means that we do not require/rely on authentication within this Site. This means that the only time you must login via Discord is when adding the bot directly through the Discord OAuth prompt.
+## The service
 
-Ultimately, you as the user control how much information is accessible and stored on our database servers, depending on what you configure and enable through the Bot.
+Elite Bot is a free, slash-command based Discord bot. All configuration happens through the bot's commands in your server. The site is documentation and information; it does not require you to log in.
 
-By using Elite Bot, you represent and warrant that you are an individual of legal age (or have consent from a parent/guardian) to form a binding contract.
+We provide the bot as-is. Features may be added, changed or removed, and the bot may be offline for maintenance or due to issues outside our control. We do not guarantee that any feature will always be available or that data will never be lost.
 
-You will only use the Bot for your own personal, internal and non-commercial use. If your use of the Bot is prohibited by applicable laws, then you aren't authorized to use the Bot. We cannot and won't be responsible for you using the Bot in a way that may break the law.
+## Who can use Elite Bot
 
-## Restrictions of usage on Elite Bot
+You must be at least 13 years old, or older where required in your country, and meet Discord's minimum age. If you are under the age of legal majority, you need permission from a parent or guardian.
 
-By using Elite Bot, you represent, warrant and agree that you will not contribute any content/submission or otherwise use the Bot in a manner which may:
+If you use Elite Bot on behalf of a server or community, you confirm that you have authority to accept these terms for it.
 
-- Infringes or violates the intellectual property rights.
-- Violates any law or regulation.
-- Be dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory or obscene.
-- Jeopardizes the security of your or someone else's account.
-- Violates the security of any network to illegally access any content without authorization.
-- Attempts to decompile or reverse engineer to obtain the source code for the Bot.
+## Acceptable use
 
-If you are found breaking any of the above restrictions, we reserve the right to permanently blacklist you from using the Bot and/or delete any inappropriate and outstanding content that is not permitted from our database servers. We may also report illegal activities to the appropriate Law Enforcement agencies.
+You may use Elite Bot in servers you run, including communities that make money, such as game servers with stores. You may not:
 
-## Your rights whilst using Elite Bot
+- sell, resell, sublicense or charge users specifically for access to Elite Bot or its features;
+- copy, modify, distribute or claim ownership of the bot, its source code, branding or documentation;
+- use the bot for anything illegal, harmful, harassing, fraudulent, deceptive or abusive;
+- attempt to disrupt, overload, reverse engineer or gain unauthorised access to the bot, its servers or other users' data;
+- use the bot to break Discord's Terms of Service or Community Guidelines;
+- remove or hide notices about these terms or the privacy policy.
 
-Any materials that is displayed or available through the Bot are protected by copyright and/or other intellectual property laws. You must abide by all copyright notices, trademark rules, information and restrictions contained in any materials and won't copy, reproduce, modify, sell or commercialize without explicit permission of the content owner.
+We may suspend or permanently blacklist anyone who breaks these rules, and we may remove data connected to that use.
 
-Subject to Our Terms of Service, we grant each user a non-exclusive, non-transferable and worldwide license to use the Bot for free. Through the license, you promise to abide by the Terms of Service that we have set out.
+## Server administrators
 
-## Changes to this Terms of Service
+Server administrators decide which features are enabled and how they are configured. You are responsible for:
 
-The Terms of Service is effective as of 21/09/2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+- the permissions you give the bot and the channels, roles and settings you choose;
+- moderation actions taken through the bot, including bans, temporary bans, timeouts, warnings, purges and voice moderation;
+- making sure your server has the notices and permissions needed for features such as welcome messages, logging and verification;
+- making sure you have the right to use any content, images or messages you configure.
 
-We reserve the right to update or change our Terms of Service at any time and you should check this Terms of Service periodically. Your continued use of the Service after we post any modifications to the Terms of Service on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Terms of Service.
+## Privacy
 
-If we make any material changes to this Terms of Service, we will notify you either by placing a prominent notice on our website or discord server or by Direct Messaging Guild Owners via Discord.
+Our [Privacy Policy](/docs/privacy-policy) explains what data we collect and how we use it. By using Elite Bot, you acknowledge that data will be handled as described there.
 
-## Communication Channels
+## Intellectual property
 
-If you wish to communicate with the Elite Bot developer, please follow one of the methods below:
-- Join our [support Discord server](http://discord.elitegami.ng)
-- Contact me directly via e-mail: thatguyjacobee@gmail.com
-- Direct Message via Discord: @thatguyjacobee
+Elite Bot, its name, logo, documentation and code are owned by Jacob Martyniak or used with permission. We give you a limited, non-exclusive, non-transferable, revocable licence to use the bot in your servers under these terms. This licence does not give you ownership of the bot or permission to redistribute it.
+
+## Availability and changes
+
+We may change, suspend or discontinue the bot or any feature at any time. We may also update these terms. The "Last Updated" date will change when we do, and continued use after a change means you accept the updated terms. If we make a material change, we will post a notice on the site or in the support Discord server.
+
+## Limitation of liability
+
+To the fullest extent permitted by law, Elite Bot and its developer are not liable for indirect, incidental, special or consequential losses, loss of data, loss of profits, service interruptions, or actions taken by server administrators or moderators through the bot.
+
+Nothing in these terms limits liability that cannot be limited by law, including liability for death or personal injury caused by negligence, or for fraud.
+
+## Termination
+
+You can stop using Elite Bot at any time by removing it from your server. We may suspend or end your access if you break these terms or if we discontinue the service. If you want your server's data deleted, contact us as described in the Privacy Policy.
+
+## Governing law
+
+These terms are governed by the laws of England and Wales, and disputes will be handled by the courts of England and Wales.
+
+## Contact
+
+- [Support Discord server](https://discord.elite-bot.com)
+- Email: thatguyjacobee@gmail.com
+- Discord: @thatguyjacobee
