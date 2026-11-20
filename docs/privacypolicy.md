@@ -8,7 +8,7 @@ Last Updated: 20/11/2026
 
 Elite Bot ("Elite Bot", "we", "us" or "our") operates https://elite-bot.com (the "site") and the Elite Bot Discord bot (the "bot"). This policy explains what personal data we collect, why we collect it, how long we keep it, and the rights you have.
 
-**Data controller:** Jacob Martyniak, United Kingdom. You can contact us through the [support Discord server](https://discord.elite-bot.com) or by email at thatguyjacobee@gmail.com.
+**Data controller:** Elite Bot, United Kingdom. You can contact us through the [support Discord server](https://discord.elite-bot.com) or by email at thatguyjacobee@gmail.com.
 
 ## Data we collect
 
