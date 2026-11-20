@@ -32,7 +32,6 @@ module.exports = {
       items: [
         'buttonsfeature',
         'giveawayfeature',
-        'aichatfeature',
         'xpuserfeature',
         'customembedfeature',
         'countinggamefeature',

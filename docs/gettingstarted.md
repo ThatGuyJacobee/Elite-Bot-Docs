@@ -11,8 +11,6 @@ Elite Bot brings many essential and unique features together, providing solid al
 ## Features 💡
 - Robust & Customisable XP System 🎚️
 - Discord Logging 📄
-- ChatGPT Feature 🤖
-- Dall-E 2 Image Generation Feature 🖼️
 - Five M & Red M Server Status Feature 📡
 - Advanced Role Selection Menu System 🔠
 - Anti-Spam & Anti-Similarity Feature 🚫
