@@ -122,7 +122,7 @@
             <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Good news! The latest rework update is now live improving the welcome feature! ⚡]]></description>
             <content:encoded><![CDATA[<p>Good news! The latest rework update is now live improving the welcome feature! ⚡</p>
-<p>This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the <a href="http://discord.elitegami.ng/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a> and let me know!</p>
+<p>This update primarily brings a new customisation option and improves the ease of customisation. The new option allows you to add a fun graphic inside the embed which can be customisable up to 8 different backgrounds. Be sure that this number will grow through time as I find more options. Any suggestions are welcome, hop in the <a href="https://discord.elite-bot.com/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a> and let me know!</p>
 <p>The other part of the update improves customisation, as the command now allows for modularity, rather than forcing you to setup the title, description and image. The previous command has now been changed to "/welcome config" whilst the toggle command remains the same.</p>
 <p>Check out <a class="" href="https://thatguyjacobee.github.io/docs/welcome-feature">the welcome feature page</a> for more information!</p>
 <p>Thanks for reading <!-- -->:D</p>]]></content:encoded>
@@ -152,7 +152,7 @@
 <p>After a long period of development, I am pleased to announce that the XP System V2 is now out! 🎉</p>
 <p>This update has been written up from the grounds up to entirely re-work the XP System. There is a wide range of new features, improvements and system optimisations that this update has brought to Elite Bot's XP System. Check out this blog post for further in-depth information! 🤓</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-additions--improvements">Key Additions &amp; Improvements<a href="https://thatguyjacobee.github.io/blog/xp-system-v2#key-additions--improvements" class="hash-link" aria-label="Direct link to Key Additions &amp; Improvements" title="Direct link to Key Additions &amp; Improvements" translate="no">​</a></h2>
-<p>In this section, I will summarise the key additions and improvements! Please check our <a href="http://discord.elitegami.ng/" target="_blank" rel="noopener noreferrer" class="">Discord Server</a> for a fully-fledged update log which will be found within the #📢｜eb-updates channel soon<!-- -->™️<!-- -->!</p>
+<p>In this section, I will summarise the key additions and improvements! Please check our <a href="https://discord.elite-bot.com/" target="_blank" rel="noopener noreferrer" class="">Discord Server</a> for a fully-fledged update log which will be found within the #📢｜eb-updates channel soon<!-- -->™️<!-- -->!</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-user-commands">New User Commands<a href="https://thatguyjacobee.github.io/blog/xp-system-v2#new-user-commands" class="hash-link" aria-label="Direct link to New User Commands" title="Direct link to New User Commands" translate="no">​</a></h3>
 <p>The first addition to the XP System is the <strong>/xpdaily</strong> command. As you can probably assume, this command allows members in your guild to claim XP every 24 hours. The bot will provide 5% of the member's next level progress each time it is run (of course with a 24h cooldown)! See for yourself below on how this command looks. 😎 ⏰</p>
 <p><img decoding="async" loading="lazy" alt="img" src="https://thatguyjacobee.github.io/assets/images/xp-daily-example-d1eac36cd33d8798dd8802a12d107fb6.png" width="1022" height="648" class="img_ev3q"></p>
@@ -174,8 +174,8 @@
 <p>There have been some changes to the <a class="" href="https://thatguyjacobee.github.io/docs/xp-system">XP System Configuration Page</a> page which involves new configuration information as well as fresh tips and changes which imporve the user experience.</p>
 <p>Likewise, there have been substantial changes to the <a class="" href="https://thatguyjacobee.github.io/docs/xp-user-feature">XP System User &amp; Admin Commands</a> page which shows the brand new commands, as well as improvements to exsiting commands.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="thanks-for-reading">Thanks for reading<a href="https://thatguyjacobee.github.io/blog/xp-system-v2#thanks-for-reading" class="hash-link" aria-label="Direct link to Thanks for reading" title="Direct link to Thanks for reading" translate="no">​</a></h2>
-<p>That is pretty much it! Thank you for reading this Update Log, let me know if this is a good format on the <a href="http://discord.elitegami.ng/" target="_blank" rel="noopener noreferrer" class="">Discord Server</a>!</p>
-<p><em>also cough cough</em> - Make sure to enter the Discord Nitro giveaway that I am hosting in celebration of 500 servers, within the #🎁｜giveways channel 👉 <a href="http://discord.elitegami.ng/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a></p>]]></content:encoded>
+<p>That is pretty much it! Thank you for reading this Update Log, let me know if this is a good format on the <a href="https://discord.elite-bot.com/" target="_blank" rel="noopener noreferrer" class="">Discord Server</a>!</p>
+<p><em>also cough cough</em> - Make sure to enter the Discord Nitro giveaway that I am hosting in celebration of 500 servers, within the #🎁｜giveways channel 👉 <a href="https://discord.elite-bot.com/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a></p>]]></content:encoded>
             <category>Rework</category>
             <category>V2</category>
             <category>Update</category>
@@ -188,7 +188,7 @@
             <description><![CDATA[Some epic news, Elite Bot has reached 500 servers and counting... (currently 521!) 🎉⚡]]></description>
             <content:encoded><![CDATA[<p>Some epic news, Elite Bot has reached 500 servers and counting... (currently 521!) 🎉⚡</p>
 <p>A big thank you to everyone who is actively using Elite Bot, it's excellent knowing that people actively use Elite Bot on their servers and all of the features that I have worked on! 😁</p>
-<p>As tradition, we will be giving away some Discord Nitro on the Support Discord Server! Make sure to join up and enter the giveaway in the #🎁｜giveways channel 👉 <a href="http://discord.elitegami.ng/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a></p>
+<p>As tradition, we will be giving away some Discord Nitro on the Support Discord Server! Make sure to join up and enter the giveaway in the #🎁｜giveways channel 👉 <a href="https://discord.elite-bot.com/" target="_blank" rel="noopener noreferrer" class="">Support Discord Server</a></p>
 <p>Next goal... quad digits: 1000 servers milestone here we come 🫵🎯</p>]]></content:encoded>
             <category>Milestone</category>
         </item>
